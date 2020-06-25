@@ -7,14 +7,16 @@ Credits to original autor creator, I only create MR5 Field and edit skin.xml to 
 Discord: Pastisha#8564
 
 
-Install
+## Setup
 
-in configs.json put
+in configs.json write
 
+```
 {
      			"url": "https://github.com/Pastisha/EDOPRO-Skinpack",
-      		"repo_name": "Pastisha EDOPro Skinpacks",
+      		        "repo_name": "Pastisha EDOPro Skinpacks",
      			"repo_path": "skin/",
      			"should_update": true,
      			"should_read": true
 },
+```
