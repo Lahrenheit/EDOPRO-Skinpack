@@ -1,8 +1,8 @@
 # EDOPRO-Skinpack
-Remake from Pastisha for EDOPRO with MR5
+Remake from Pastisha for EDOPRO with MR2020 (MR5)
 
 
-Credits to original autor creator, I only create MR5 Field and edit skin.xml to work properly
+Credits to original autor creator, I only create MR2020 Field and edit skin.xml to work properly
 
 Discord: Pastisha#8564
 
