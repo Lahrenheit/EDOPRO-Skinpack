@@ -2,7 +2,7 @@
 Skins edited by Pastisha for EDOPRO with MR2020 (MR5)
 
 
-Credits to original creators, I only create MR2020 Field and edit skin.xml to work properly
+Credits to original creators, I only created MR2020 Field and edited skin.xml to work properly
 
 Discord: Pastisha#8564
 
