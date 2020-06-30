@@ -10,11 +10,11 @@
 <!-- DstBorder = top,left,bottom,right -->
 <Skin>
 	<Properties>
-		<Name data="WinXP" />
-		<Author data="Mloren" />
+		<Name data="The Dark Side of Darkness" />
+		<Author data="Pastisha/Kadmel" />
 		<Version data="1.0" />
-		<Date data="13-Oct-2010"/>
-		<Desc data="A skin that looks like Windows XP"/>
+		<Date data="2020"/>
+		<Desc data="TDSOD Skin for EDOPRO"/>
 		<Fallback skin="EGST_WINDOWS_CLASSIC" />
 		<Font texture="fontTahoma.png" />
 	</Properties>
