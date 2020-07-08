@@ -25,6 +25,7 @@ in configs.json write
 
 <details><summary>Dark Side of Dimensions</summary>
 <p>
+ 
 ![Screenshot 1](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-10-00.png)
 </p>
 </details>
