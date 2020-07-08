@@ -21,7 +21,7 @@ in configs.json write
 },
 ```
 
-# Screenshots
+## Screenshots
 
 <details><summary>Dark Side of Dimensions</summary>
 <p>
