@@ -50,8 +50,8 @@ in configs.json write
 <details><summary>Forbidden Memories</summary>
 <p>
  
-![Screenshot 7](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-11-32.png)
-![Screenshot 8](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-39-11.png)
+![Screenshot 7](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2021-54-03.png)
+![Screenshot 8](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2021-54-16.png)
 </p>
 </details>
 
