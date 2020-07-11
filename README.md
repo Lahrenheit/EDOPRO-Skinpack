@@ -50,16 +50,16 @@ in configs.json write
 <details><summary>Forbidden Memories</summary>
 <p>
  
-![Screenshot 7](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2021-54-03.png)
-![Screenshot 8](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2021-54-16.png)
+![Screenshot 7](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-10%2020-55-52.png)
+![Screenshot 8](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-10%2020-56-04.png)
 </p>
 </details>
 
 <details><summary>Forbidden Memories - Alt (Alternative)</summary>
 <p>
  
-![Screenshot 9](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-11-47.png)
-![Screenshot 10](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-14-29.png)
+![Screenshot 9](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-10%2020-56-31.png)
+![Screenshot 10](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-10%2020-56-36.png)
 </p>
 </details>
 
