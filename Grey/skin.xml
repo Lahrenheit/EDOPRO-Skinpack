@@ -117,18 +117,18 @@
 		<PROGRESSBAR_FILL_COLOR  a="255" r="179" g="179" b="179" />
 		<PROGRESSBAR_EMPTY_COLOR  a="255" r="242" g="242" b="242" />
 		<ROOMLIST_TEXTS_COLOR a="255" r="255" g="255" b="255" />
-		<ROOMLIST_NORMAL_ROOM a="0" r="255" g="255" b="255" />
-		<ROOMLIST_CUSTOM_ROOM a="100" r="255" g="0" b="0" />
-		<ROOMLIST_STARTED_ROOM a="255" r="0" g="0" b="255" />
+		<ROOMLIST_NORMAL_ROOM a="0" r="128" g="128" b="128" />
+		<ROOMLIST_CUSTOM_ROOM a="120" r="128" g="128" b="128" />
+		<ROOMLIST_STARTED_ROOM a="100" r="153" g="0" b="0" />
 		<TIMEBAR_1_BOTTOM_LEFT a="255" r="20" g="20" b="20" />
-		<TIMEBAR_1_BOTTOM_RIGHT a="255" r="220" g="200" b="200" />
+		<TIMEBAR_1_BOTTOM_RIGHT a="255" r="255" g="255" b="255" />
 		<TIMEBAR_1_TOP_LEFT a="255" r="20" g="20" b="20" />
-		<TIMEBAR_1_TOP_RIGHT a="255" r="200" g="200" b="200" />
+		<TIMEBAR_1_TOP_RIGHT a="255" r="255" g="255" b="255" />
 		<TIMEBAR_1_OUTLINE a="255" r="20" g="20" b="20" />
+		<TIMEBAR_2_BOTTOM_RIGHT a="255" r="20" g="20" b="20" />
 		<TIMEBAR_2_BOTTOM_LEFT a="255" r="255" g="255" b="255" />
-		<TIMEBAR_2_BOTTOM_RIGHT a="255" r="255" g="255" b="255" />
+		<TIMEBAR_2_TOP_RIGHT a="255" r="20" g="20" b="20" />
 		<TIMEBAR_2_TOP_LEFT a="255" r="255" g="255" b="255" />
-		<TIMEBAR_2_TOP_RIGHT a="255" r="255" g="255" b="255" />
 		<TIMEBAR_2_OUTLINE a="255" r="20" g="20" b="20" />
 	</Custom>
 	<Button texture="button.png">
