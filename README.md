@@ -14,7 +14,7 @@ in configs.json write
 ```
 {
      			"url": "https://github.com/Pastisha/EDOPRO-Skinpack",
-      		        "repo_name": "Pastisha EDOPro Skinpacks",
+      		        "repo_name": "Pastisha EDOPro Skinpack",
      			"repo_path": "./skin/",
      			"should_update": true,
      			"should_read": true
