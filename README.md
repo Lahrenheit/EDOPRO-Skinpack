@@ -79,7 +79,7 @@ in configs.json write
 </p>
 </details>
 
-<details><summary>KLink Evolution - Custom</summary>
+<details><summary>Link Evolution - Custom</summary>
 <p>
  
 ![Screenshot 15](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-25%2013-47-49.png)
