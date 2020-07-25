@@ -79,19 +79,27 @@ in configs.json write
 </p>
 </details>
 
+<details><summary>KLink Evolution - Custom</summary>
+<p>
+ 
+![Screenshot 15](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-25%2013-47-49.png)
+![Screenshot 16](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-25%2013-47-56.png)
+</p>
+</details>
+
 <details><summary>Milennial Destiny</summary>
 <p>
  
-![Screenshot 15](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-12-44.png)
-![Screenshot 16](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-15-17.png)
+![Screenshot 17](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-12-44.png)
+![Screenshot 18](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-15-17.png)
 </p>
 </details>
 
 <details><summary>Translucent Blue</summary>
 <p>
  
-![Screenshot 17](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-13-01.png)
-![Screenshot 18](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-15-33.png)
+![Screenshot 19](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-13-01.png)
+![Screenshot 20](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-15-33.png)
 </p>
 </details>
 
