@@ -48,6 +48,18 @@
 	</Global>
 	
 	<Custom>
+	
+			<!--Your LP bar-->
+			<LPBAR_1_BOTTOM_LEFT a="255" r="255" g="0" b="0" />
+			<LPBAR_1_BOTTOM_RIGHT a="255" r="40" g="199" b="29" />
+			<LPBAR_1_TOP_LEFT a="255" r="255" g="0" b="0" />
+			<LPBAR_1_TOP_RIGHT a="255" r="40" g="199" b="29" />
+			<!--Opponent's LP bar-->
+			<LPBAR_2_BOTTOM_LEFT a="255" r="40" g="199" b="29" />
+			<LPBAR_2_BOTTOM_RIGHT a="255" r="255" g="0" b="0" />
+			<LPBAR_2_TOP_LEFT a="255" r="40" g="199" b="29" />
+			<LPBAR_2_TOP_RIGHT a="255" r="255" g="0" b="0" />
+			
 			<DUELFIELD_TOOLTIP_TEXT_COLOR a="255" r="255" g="255" b="255" /> <!-- color tooltip. -->
             <DUELFIELD_TOOLTIP_TEXT_BACKGROUND_COLOR a="255" r="26" g="51" b="103" /> <!-- fondo tooltip. -->
 			
