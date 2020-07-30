@@ -82,7 +82,7 @@ in configs.json write
 <details><summary>Link Evolution - Custom</summary>
 <p>
  
-![Screenshot 15](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshotsEDOPro%202020-07-25%2013-47-49.png)
+![Screenshot 15](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-25%2013-47-49.png)
 ![Screenshot 16](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-25%2013-47-56.png)
 </p>
 </details>
