@@ -9,7 +9,7 @@ Discord: Pastisha#8564
 
 ## Setup
 
-in configs.json write
+in user_configs.json or configs.json write
 
 ```
 {
