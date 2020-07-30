@@ -108,5 +108,6 @@ in configs.json write
 ![Screenshot 21](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-33-04.png)
 ![Screenshot 22](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-33-23.png)
 </p>
+
 </details>
 
