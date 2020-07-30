@@ -102,7 +102,7 @@ in configs.json write
 ![Screenshot 20](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-33-38.png)
 </p>
 
-<details><summary>Translucent Blue - Alt</summary>
+<details><summary>Translucent Blue - Alt (Alternative)</summary>
 <p>
    
 ![Screenshot 21](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-33-04.png)
