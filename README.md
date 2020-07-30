@@ -98,8 +98,15 @@ in configs.json write
 <details><summary>Translucent Blue</summary>
 <p>
  
-![Screenshot 19](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-13-01.png)
-![Screenshot 20](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-15-33.png)
+![Screenshot 19](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-32-52.png)
+![Screenshot 20](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-33-38.png)
+</p>
+
+<details><summary>Translucent Blue - Alt</summary>
+<p>
+ 
+![Screenshot 21](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-33-04.png)
+![Screenshot 22](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-33-23.png)
 </p>
 </details>
 
