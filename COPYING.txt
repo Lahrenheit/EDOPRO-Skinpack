@@ -1,0 +1,7 @@
+Project Ignis skin collection
+Copyright (C) 2020  Project Ignis contributors. All Rights Reserved.
+
+These skins and supporting textures may only be distributed in a canonical copy of Project Ignis: EDOPro.
+This notice must be retained. All other use is prohibited without the author's permission.
+
+All versions of settings.png are part of the Not So Ancient Gears collection by Icematoro.
