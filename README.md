@@ -26,87 +26,87 @@ in configs.json write
 <details><summary>Dark Side of Dimensions</summary>
 <p>
  
-![Screenshot 1](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-10-00.png)
-![Screenshot 2](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-13-26.png)
+![Screenshot 1](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-10-00.png)
+![Screenshot 2](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-13-26.png)
 </p>
 </details>
 
 <details><summary>Dark Side of Dimensions - Alt (Alternative)</summary>
 <p>
  
-![Screenshot 3](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-10-28.png)
-![Screenshot 4](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-13-42.png)
+![Screenshot 3](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-10-28.png)
+![Screenshot 4](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-13-42.png)
 </p>
 </details>
 
 <details><summary>Duel Generation</summary>
 <p>
  
-![Screenshot 5](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-11-13.png)
-![Screenshot 6](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-13-59.png)
+![Screenshot 5](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-11-13.png)
+![Screenshot 6](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-13-59.png)
 </p>
 </details>
 
 <details><summary>Forbidden Memories</summary>
 <p>
  
-![Screenshot 7](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-10%2020-55-52.png)
-![Screenshot 8](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-10%2020-56-04.png)
+![Screenshot 7](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-55-52.png)
+![Screenshot 8](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-56-04.png)
 </p>
 </details>
 
 <details><summary>Forbidden Memories - Alt (Alternative)</summary>
 <p>
  
-![Screenshot 9](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-10%2020-56-31.png)
-![Screenshot 10](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-10%2020-56-36.png)
+![Screenshot 9](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-56-31.png)
+![Screenshot 10](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-56-36.png)
 </p>
 </details>
 
 <details><summary>Joey The Passion</summary>
 <p>
  
-![Screenshot 11](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-12-05.png)
-![Screenshot 12](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-14-47.png)
+![Screenshot 11](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-12-05.png)
+![Screenshot 12](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-14-47.png)
 </p>
 </details>
 
 <details><summary>Kaiba The Revenge</summary>
 <p>
  
-![Screenshot 13](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-12-24.png)
-![Screenshot 14](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-15-02.png)
+![Screenshot 13](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-12-24.png)
+![Screenshot 14](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-15-02.png)
 </p>
 </details>
 
 <details><summary>Link Evolution - Custom</summary>
 <p>
  
-![Screenshot 15](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-25%2013-47-49.png)
-![Screenshot 16](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-25%2013-47-56.png)
+![Screenshot 15](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-25%2013-47-49.png)
+![Screenshot 16](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-25%2013-47-56.png)
 </p>
 </details>
 
 <details><summary>Milennial Destiny</summary>
 <p>
  
-![Screenshot 17](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-12-44.png)
-![Screenshot 18](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-08%2017-15-17.png)
+![Screenshot 17](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-12-44.png)
+![Screenshot 18](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-15-17.png)
 </p>
 </details>
 
 <details><summary>Translucent Blue</summary>
 <p>
  
-![Screenshot 19](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-32-52.png)
-![Screenshot 20](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-33-38.png)
+![Screenshot 19](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-32-52.png)
+![Screenshot 20](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-33-38.png)
 </p>
 
 <details><summary>Translucent Blue - Alt (Alternative)</summary>
 <p>
    
-![Screenshot 21](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-33-04.png)
-![Screenshot 22](https://github.com/Pastisha/EDOPRO-Skinpack/blob/master/EDOPro%202020-07-30%2017-33-23.png)
+![Screenshot 21](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-33-04.png)
+![Screenshot 22](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-33-23.png)
 </p>
 
 </details>
