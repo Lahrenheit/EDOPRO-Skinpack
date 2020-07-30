@@ -101,6 +101,7 @@ in user_configs.json or configs.json write
 ![Screenshot 19](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-32-52.png)
 ![Screenshot 20](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-33-38.png)
 </p>
+</details>
 
 <details><summary>Translucent Blue - Alt (Alternative)</summary>
 <p>
@@ -108,6 +109,5 @@ in user_configs.json or configs.json write
 ![Screenshot 21](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-33-04.png)
 ![Screenshot 22](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-33-23.png)
 </p>
-
 </details>
 
