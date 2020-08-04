@@ -39,6 +39,14 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>Dawn of a New Era</summary>
+<p>
+ 
+![Screenshot 23](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-04%2013-12-37.png)
+![Screenshot 24](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-04%2013-12-42.png)
+</p>
+</details>
+
 <details><summary>Duel Generation</summary>
 <p>
  
