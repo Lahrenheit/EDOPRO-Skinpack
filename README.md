@@ -114,8 +114,8 @@ in user_configs.json or configs.json write
 <details><summary>Translucent Blue - Alt (Alternative)</summary>
 <p>
    
-![Screenshot 21](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-33-04.png)
-![Screenshot 22](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-33-23.png)
+![Screenshot 21]()
+![Screenshot 22]()
 </p>
 </details>
 
