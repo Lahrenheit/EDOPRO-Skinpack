@@ -42,8 +42,8 @@ in user_configs.json or configs.json write
 <details><summary>Dawn of a New Era</summary>
 <p>
  
-![Screenshot 23](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-04%2013-12-37.png)
-![Screenshot 24](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-04%2013-12-42.png)
+![Screenshot 23](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-04%2019-52-33.png)
+![Screenshot 24](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-04%2019-52-38.png)
 </p>
 </details>
 
