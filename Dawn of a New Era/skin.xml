@@ -30,7 +30,7 @@
 		<EGDC_APP_WORKSPACE a="255" r="255" g="255" b="0" />		-->		<!-- NO SE. Background color of multiple document interface (MDI) applications. -->  
 		<EGDC_BUTTON_TEXT a="255" r="255" g="255" b="255" />		 		<!-- Color de Texto. --> 
 		<EGDC_GRAY_TEXT a="255" r="255" g="255" b="0" />				<!-- Grayed (deshabilitado) text. -->  
-		<EGDC_HIGH_LIGHT a="255" r="0" g="0" b="102" />		-->  		<!-- Color del fondo del cuadro cuando pasas sobre los items cuando eliges decks. Item(s) selected in a control. -->  
+		<EGDC_HIGH_LIGHT a="255" r="32" g="137" b="239" />		-->  		<!-- Color del fondo del cuadro cuando pasas sobre los items cuando eliges decks. Item(s) selected in a control. -->  
 		<EGDC_HIGH_LIGHT_TEXT a="255" r="255" g="255" b="0" />	  			<!-- Color de los items selecionados o cuando te paras en el. --> 
 		<EGDC_INACTIVE_BORDER a="255" r="255" g="255" b="0" />	-->  		<!-- NO SE. Inactive window border. -->  
 		<EGDC_INACTIVE_CAPTION a="255" r="255" g="255" b="0" />	        --> 		<!-- Color de texto de ventana Inactiva. Inactive window caption. -->  
