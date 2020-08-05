@@ -94,7 +94,7 @@
 		</ButtonDisabled>
 	</Button>
 
-	<MenuBar texture="ButtonPressed.png">
+	<MenuBar texture="Button.png">
 		<SrcBorder tlx="10" tly="10" brx="10" bry="10" />
 		<DstBorder tlx="10" tly="10" brx="10" bry="10" />
 		<Color r="255" g="255" b="255" a="150" />
@@ -103,7 +103,7 @@
 			<DstBorder tlx="3" tly="3" brx="3" bry="3" />
 			<Color r="255" g="255" b="255" a="255" />
 		</MenuPane>
-		<MenuPressed texture="buttonPressed.png">
+		<MenuPressed texture="ButtonPressed.png">
 			<SrcBorder tlx="3" tly="3" brx="3" bry="3" />
 			<DstBorder tlx="3" tly="3" brx="3" bry="3" />
 			<Color r="255" g="255" b="255" a="255" />
