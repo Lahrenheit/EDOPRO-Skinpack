@@ -57,6 +57,16 @@
             <CARDINFO_ARCHETYPE_TEXT_COLOR a="255" r="255" g="50" b="10" />
             <CARDINFO_PASSCODE_SCOPE_TEXT_COLOR a="255" r="242" g="255" b="0" />
             <DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT a="255" r="255" g="255" b="255" />
+			
+			<!-- Changes the color for the texts in the room list menu. Examples: the "Server", "Nickname", "show locked rooms" texts-->
+			<ROOMLIST_TEXTS_COLOR a="255" r="255" g="255" b="255" />
+			<!-- Changes the color for a room that didn't have any of its settings changed from the default ones-->
+			<ROOMLIST_NORMAL_ROOM a="255" r="0" g="150" b="0" />
+			<!-- Changes the color for a room that has any of its settings changed from the default ones. Example: different LP, different starting hand, etc-->
+			<ROOMLIST_CUSTOM_ROOM a="255" r="182" g="255" b="0" />
+			<!-- Changes the color for a room, in the room list, that has already started its duel.-->
+			<ROOMLIST_STARTED_ROOM a="255" r="178" g="0" b="255" />
+			
 	</Custom>
 	<Button texture="button.png">
 		<SrcBorder tlx="3" tly="3" brx="3" bry="3" />
