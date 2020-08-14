@@ -106,7 +106,7 @@ in user_configs.json or configs.json write
 <details><summary>Translucent Blue</summary>
 <p>
  
-![Screenshot 19](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-32-52.png)
+![Screenshot 19](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-14%2013-12-48.png)
 ![Screenshot 20](https://github.com/Pastisha/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-33-38.png)
 </p>
 </details>
