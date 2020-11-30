@@ -4,7 +4,7 @@ Skins edited by Naewt for EDOPRO (with MR2020)
 
 Credits to original creators, I only created MR2020 field, edited skin.xml and some textures to work properly
 
-Discord: Naewt#8564
+Discord: Lahrenheit#8564
 
 
 ## Setup
@@ -13,8 +13,8 @@ in user_configs.json or configs.json write
 
 ```
 {
-     			"url": "https://github.com/Naewt/EDOPRO-Skinpack",
-      		        "repo_name": "Naewt EDOPro Skinpack",
+     			"url": "https://github.com/Lahrenheit/EDOPRO-Skinpack",
+      		        "repo_name": "Lahrenheit EDOPro Skinpack",
      			"repo_path": "./skin/",
      			"should_update": true,
      			"should_read": true
