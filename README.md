@@ -26,16 +26,16 @@ in user_configs.json or configs.json write
 <details><summary>Dark Side of Dimensions</summary>
 <p>
  
-![Screenshot 1](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2016-56-07.png)
-![Screenshot 2](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2016-56-34.png)
+![Screenshot 1](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-44.png)
+![Screenshot 2](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-10.png)
 </p>
 </details>
 
 <details><summary>Dark Side of Dimensions - Alt (Alternative)</summary>
 <p>
  
-![Screenshot 3](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2016-57-03.png)
-![Screenshot 4](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2016-57-08.png)
+![Screenshot 3](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-55.png)
+![Screenshot 4](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-23.png)
 </p>
 </details>
 
