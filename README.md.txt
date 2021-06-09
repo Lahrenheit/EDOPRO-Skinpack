@@ -1,23 +1,22 @@
-To create a skin:
-	* Create a folder inside the skin folder with your skin name
-	* Add to that folder a `skin.xml` file
-		* Optionally, also add a `textures` folder inside the `skin` folder. If any files are added to it, the skin will apply those to overridde the default ones in the game's main `textures` folder.
+# Creating a skin:
 
-A `skin.xml` file is read by the GUI Skin (CImageGUISkin). The order of elements/groups does not matter.
-Files from here are the default textures used in the game. If the current skin applied contains a `textures` folder, files there will override these.
-Groups and the fields available are not case sensitive.
+A `skin.xml` file is read by the GUI Skin (CImageGUISkin). The order of elements/groups does not matter and they are not case sensitive.
 
+* Create a folder inside the `skin` folder with your skin name.
+* Add to that folder a `skin.xml` file.
+	* Optionally, also add a `textures` folder inside the `skin` folder. If any files are added to it, the skin will apply those to overridde the default ones in the game's main `textures` folder.
 
-At the end of this file you have a template.
+At the end of this file you have a **template**.
 
 
 # Groups availables:
-	* Properties
-	* Global
-	* Custom
+	* Properties: contains information about the current skin file.
+	* Global: contains elements that change the global enviroment
+	* Custom: contains elements, all optional, that change specific parts of the GUI.
+
 
 ## Properties
-Elements here are all optional
+Elements here are all optional.
 
 * Author
 * Version
@@ -28,8 +27,7 @@ Elements here are all optional
 
 
 ## Global
-These fields change the colors in the multiple areas in the game.
-
+Elements here change the colors in the multiple areas in the game.
 
 * EGDC_3D_DARK_SHADOW : Dark shadow for three-dimensional display elements.
 * EGDC_3D_SHADOW : Shadow color for three-dimensional display elements (for edges facing away from the light source).
@@ -76,55 +74,71 @@ These fields change the colors in the multiple areas in the game.
 * DUELFIELD_CARD_SELECT_WINDOW_OVERLAY_TEXT
 * DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT : Changes the color for the caption text when you have to select cards from a location. Example: the Deck[1], Deck[2], etc, positions shown when you select a card with something like Terraforming
 * DUELFIELD_CARD_SELF_WINDOW_BACKGROUND
+* DUELFIELD_DISABLED_FIELD_COLOR
 * DUELFIELD_HIGHLIGHTING_CARD_OUTLINE : Changes the color for the borders of a card, when it is selected. Example: a card that you add to your hand via Terraforming.
 * DUELFIELD_HOVERED : Changes the color for the zone highlighted when you are hovering on the field.
 * DUELFIELD_LINKED : Changes the color for the zones where a link monster points to.
+* DUELFIELD_LP_1 : changes the color used for the value in your LP 
+* DUELFIELD_LP_2 : changes the color used for the value in your opponent's LP 
 * DUELFIELD_MUTUAL_LINKED : Changes the color for the zones where monsters co-linked with the monster that you hover the mouse over are.
 * DUELFIELD_SELECTABLE_CARD_OUTLINE : Changes the color for the borders of a card, when it is selectable. Example: a Maxx C in your hand will have this color when asking you to activate it
 * DUELFIELD_SELECTABLE_FIELD_OUTLINE : Changes the color for the borders of a zone , when you have to select it. Example: when selecting a zone to normal summon
-* DUELFIELD_TOOLTIP_TEXT_BACKGROUND_COLOR : Changes the color used in the text with the tooltip box, the area with the card details when you hover the mouse over it on the field
-* DUELFIELD_TOOLTIP_TEXT_COLOR
+* DUELFIELD_STACK: changes the color used for number in piles on the field, like the number of cards in a player's deck or extra deck.
+* DUELFIELD_TOOLTIP_TEXT_BACKGROUND_COLOR : Changes the color used in the area for the tooltip box, the area with the card details when you hover the mouse over it on the field
+* DUELFIELD_TOOLTIP_TEXT_COLOR:  Changes the color used in the text with the tooltip box.
+* DUELFIELD_TURN_COUNT : the color used the for the turn count
+* DUELFIELD_TURNPLAYER_COLOR: the color used for the area where the LP bar, player name and timer are drawn.
+* DUELFIELD_TURNPLAYER_OUTLINE_COLOR: the color around the area where the LP bar, player name and timer are drawn.
 * PROGRESSBAR_FILL_COLOR : Changes the color used for the elapsed progress bar in repositories. 
 * PROGRESSBAR_EMPTY_COLOR : Changes the color for remaining progress bar for repositories
 * ROOMLIST_CUSTOM_ROOM : Changes the color for a room that has any of its settings changed from the default ones. Example: different LP, different starting hand, etc
 * ROOMLIST_NORMAL_ROOM : Changes the color for a room that didn't have any of its settings changed from the default ones
 * ROOMLIST_STARTED_ROOM : Changes the color for a room, in the room list, that has already started its duel.
 * ROOMLIST_TEXTS_COLOR : Changes the color for the texts in the room list menu. Examples: the "Server", "Nickname", "show locked rooms" texts
-* The following 32 fields change the color used for the areas in Deck Edit, specifically for the areas where the informations about the deck are displayed. Example, the panel where you see `Monsters 32, Spells 5, Traps 3`.
-	* DECK_WINDOW_EXTRA_BOTTOM_LEFT
-	* DECK_WINDOW_EXTRA_BOTTOM_RIGHT
+* The following 41 fields change the color used for the areas in Deck Edit, specifically for the areas where the informations about the deck are displayed. Example, the panel where you see `Monsters 32, Spells 5, Traps 3`.
 	* DECK_WINDOW_EXTRA_INFO_BOTTOM_LEFT
 	* DECK_WINDOW_EXTRA_INFO_BOTTOM_RIGHT
 	* DECK_WINDOW_EXTRA_INFO_TOP_LEFT
 	* DECK_WINDOW_EXTRA_INFO_TOP_RIGHT
+	* DECK_WINDOW_EXTRA_INFO_OUTLINE
+	* DECK_WINDOW_EXTRA_BOTTOM_LEFT
+	* DECK_WINDOW_EXTRA_BOTTOM_RIGHT
 	* DECK_WINDOW_EXTRA_TOP_LEFT
 	* DECK_WINDOW_EXTRA_TOP_RIGHT
+	* DECK_WINDOW_EXTRA_OUTLINE
 	* DECK_WINDOW_HOVERED_CARD_RESULT
-	* DECK_WINDOW_MAIN_BOTTOM_LEFT
-	* DECK_WINDOW_MAIN_BOTTOM_RIGHT
 	* DECK_WINDOW_MAIN_INFO_BOTTOM_LEFT
 	* DECK_WINDOW_MAIN_INFO_BOTTOM_RIGHT
 	* DECK_WINDOW_MAIN_INFO_TOP_LEFT
 	* DECK_WINDOW_MAIN_INFO_TOP_RIGHT
+	* DECK_WINDOW_MAIN_INFO_OUTLINE
+	* DECK_WINDOW_MAIN_BOTTOM_LEFT
+	* DECK_WINDOW_MAIN_BOTTOM_RIGHT
 	* DECK_WINDOW_MAIN_TOP_LEFT
 	* DECK_WINDOW_MAIN_TOP_RIGHT
-	* DECK_WINDOW_SEARCH_RESULT_BOTTOM_LEFT
-	* DECK_WINDOW_SEARCH_RESULT_BOTTOM_RIGHT
+	* DECK_WINDOW_MAIN_OUTLINE
 	* DECK_WINDOW_SEARCH_RESULT_INFO_BOTTOM_LEFT
 	* DECK_WINDOW_SEARCH_RESULT_INFO_BOTTOM_RIGHT
 	* DECK_WINDOW_SEARCH_RESULT_INFO_TOP_LEFT
 	* DECK_WINDOW_SEARCH_RESULT_INFO_TOP_RIGHT
+	* DECK_WINDOW_SEARCH_RESULT_INFO_OUTLINE
+	* DECK_WINDOW_SEARCH_RESULT_BOTTOM_LEFT
+	* DECK_WINDOW_SEARCH_RESULT_BOTTOM_RIGHT
 	* DECK_WINDOW_SEARCH_RESULT_TOP_LEFT
 	* DECK_WINDOW_SEARCH_RESULT_TOP_RIGHT
-	* DECK_WINDOW_SIDE_BOTTOM_LEFT
-	* DECK_WINDOW_SIDE_BOTTOM_RIGHT
+	* DECK_WINDOW_SEARCH_RESULT_OUTLINE
 	* DECK_WINDOW_SIDE_INFO_BOTTOM_LEFT
 	* DECK_WINDOW_SIDE_INFO_BOTTOM_RIGHT
 	* DECK_WINDOW_SIDE_INFO_TOP_LEFT
 	* DECK_WINDOW_SIDE_INFO_TOP_RIGHT
+	* DECK_WINDOW_SIDE_INFO_OUTLINE
+	* DECK_WINDOW_SIDE_BOTTOM_LEFT
+	* DECK_WINDOW_SIDE_BOTTOM_RIGHT
 	* DECK_WINDOW_SIDE_TOP_LEFT
 	* DECK_WINDOW_SIDE_TOP_RIGHT
-* The following 8 fields change the color for the LP bar for you, with LPBAR1, and your opponent's with LPBAR2.
+	* DECK_WINDOW_SIDE_OUTLINE
+	* DECK_WINDOW_HOVERED_CARD_OUTLINE
+* The following 8 fields change the color of the LP bar: LPBAR_1 (home), LPBAR_2 (away)
 	* LPBAR_1_BOTTOM_LEFT
 	* LPBAR_1_BOTTOM_RIGHT
 	* LPBAR_1_TOP_LEFT
@@ -133,10 +147,34 @@ These fields change the colors in the multiple areas in the game.
 	* LPBAR_2_BOTTOM_RIGHT
 	* LPBAR_2_TOP_LEFT
 	* LPBAR_2_TOP_RIGHT
+* The following 10 fields change the color of the timer: TIMEBAR_1 (home), TIMEBAR_2 (away)
+	* TIMEBAR_1_BOTTOM_LEFT
+	* TIMEBAR_1_BOTTOM_RIGHT
+	* TIMEBAR_1_TOP_LEFT
+	* TIMEBAR_1_TOP_RIGHT
+	* TIMEBAR_1_OUTLINE
+	* TIMEBAR_2_BOTTOM_LEFT
+	* TIMEBAR_2_BOTTOM_RIGHT
+	* TIMEBAR_2_TOP_LEFT
+	* TIMEBAR_2_TOP_RIGHT
+	* TIMEBAR_2_OUTLINE
+* The following 12 fields change the color of card properties on the field
+	* DUELFIELD_CARD_LEVEL
+	* DUELFIELD_CARD_TUNER_LEVEL
+	* DUELFIELD_CARD_RANK
+	* DUELFIELD_CARD_LINK
+	* DUELFIELD_CARD_PSCALE
+	* DUELFIELD_UNCHANGED_CARD_ATK
+	* DUELFIELD_HIGHER_CARD_ATK
+	* DUELFIELD_LOWER_CARD_ATK
+	* DUELFIELD_UNCHANGED_CARD_DEF
+	* DUELFIELD_HIGHER_CARD_DEF
+	* DUELFIELD_LOWER_CARD_DEF
+	* DUELFIELD_ATTACK_ARROW
 
 # Optional elements
 
-If provided, these will load files from the same directory as the `skin.xml` file and will apply those to different areas.
+If provided, after the global/custom groups, these will load files from the same directory as the `skin.xml` file and will apply those to different areas, similar to the "global" elements.
 If used, Source border is the border width (in pixels) on the texture and Dest border is the border width on the screen (also in pixels). SrcBorder and DstBorder are in this order: top, left, bottom, right.
 
 * Button: changes the appearance of the buttons used in the game.
@@ -241,7 +279,7 @@ Changes the thickness of the image used in the menus in Deck Edit: Card Info, Lo
 		<Date data="dd-mm-yyyy"/>
 		<Desc data="some description: A skin that uses white, black and grey elements"/>
 		<Fallback skin="" />
-		<Font texture="fontTahoma.png" />
+		<Font texture="fontNotosans.png" />
 	</Properties>
 	<Global guialpha="255">
 		<EGDC_3D_DARK_SHADOW a="255" r="255" g="255" b="255" />
@@ -253,41 +291,32 @@ Changes the thickness of the image used in the menus in Deck Edit: Card Info, Lo
 		<EGDC_ACTIVE_CAPTION a="255" r="35" g="45" b="95" />
 		<EGDC_APP_WORKSPACE a="255" r="255" g="255" b="255" />
 		<EGDC_BUTTON_TEXT a="240" r="255" g="255" b="255" />
+		<EGDC_EDITABLE a="255" r="255" g="255" b="255" />
+		<EGDC_FOCUSED_EDITABLE a="255" r="190" g="190" b="190" />
+		<EGDC_GRAY_EDITABLE a="255" r="51" g="51" b="51" />
 		<EGDC_GRAY_TEXT a="255" r="60" g="60" b="60" />
+		<EGDC_GRAY_WINDOW_SYMBOL a="255" r="255" g="255" b="255" />
 		<EGDC_HIGH_LIGHT a="255" r="153" g="153" b="153" />
 		<EGDC_HIGH_LIGHT_TEXT a="255" r="20" g="20" b="20" />
-		<EGDC_INACTIVE_BORDER a="255" r="255" g="255" b="255" />
-		<EGDC_INACTIVE_CAPTION a="255" r="26" g="255" b="255" />
-		<EGDC_TOOLTIP a="255" r="255" g="40" b="40" />
-		<EGDC_TOOLTIP_BACKGROUND a="150" r="70" g="190" b="240" />
-		<EGDC_SCROLLBAR a="255" r="153" g="153" b="153" />
-		<EGDC_WINDOW a="255" r="255" g="255" b="255" />
-		<EGDC_WINDOW_SYMBOL a="255" r="255" g="255" b="255" />
 		<EGDC_ICON a="255" r="255" g="255" b="255" />
 		<EGDC_ICON_HIGH_LIGHT a="255" r="70" g="190" b="240" />
-		<EGDC_GRAY_WINDOW_SYMBOL a="255" r="255" g="255" b="255" />
-		<EGDC_EDITABLE a="255" r="255" g="255" b="255" />
-		<EGDC_GRAY_EDITABLE a="255" r="51" g="51" b="51" />
-		<EGDC_FOCUSED_EDITABLE a="255" r="190" g="190" b="190" />
+		<EGDC_INACTIVE_BORDER a="255" r="255" g="255" b="255" />
+		<EGDC_INACTIVE_CAPTION a="255" r="26" g="255" b="255" />
+		<EGDC_SCROLLBAR a="255" r="153" g="153" b="153" />
+		<EGDC_TOOLTIP a="255" r="255" g="40" b="40" />
+		<EGDC_TOOLTIP_BACKGROUND a="150" r="70" g="190" b="240" />
+		<EGDC_WINDOW a="255" r="255" g="255" b="255" />
+		<EGDC_WINDOW_SYMBOL a="255" r="255" g="255" b="255" />
 		<Caption tbardistancex="4" tbardistancey="8" />
 		<WindowButton width="24" />
 		<CheckBoxColor a="255" r="30" g="30" b="30" />
 	</Global>
 	<Custom>
-		<CARDINFO_TYPES_COLOR a="255" r="255" g="255" b="204" />
-		<CARDINFO_STATS_COLOR a="255" r="255" g="255" b="204" />
 		<CARDINFO_ARCHETYPE_TEXT_COLOR a="255" r="255" g="255" b="204" />
-		<CARDINFO_PASSCODE_SCOPE_TEXT_COLOR a="255" r="255" g="255" b="204" />
 		<CARDINFO_IMAGE_BACKGROUND a="255" r="245" g="245" b="245" />
-		<FPS_TEXT_COLOR a="255" r="245" g="245" b="245" />
-		<DECK_WINDOW_MAIN_INFO_TOP_LEFT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_MAIN_INFO_TOP_RIGHT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_MAIN_INFO_BOTTOM_LEFT a="255" r="255" g="255" b="255" />
-		<DECK_WINDOW_MAIN_INFO_BOTTOM_RIGHT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_MAIN_TOP_LEFT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_MAIN_TOP_RIGHT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_MAIN_BOTTOM_LEFT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_MAIN_BOTTOM_RIGHT a="255" r="200" g="200" b="200" />
+		<CARDINFO_PASSCODE_SCOPE_TEXT_COLOR a="255" r="255" g="255" b="204" />
+		<CARDINFO_STATS_COLOR a="255" r="255" g="255" b="204" />
+		<CARDINFO_TYPES_COLOR a="255" r="255" g="255" b="204" />
 		<DECK_WINDOW_EXTRA_INFO_TOP_LEFT a="255" r="200" g="200" b="200" />
 		<DECK_WINDOW_EXTRA_INFO_TOP_RIGHT a="255" r="200" g="200" b="200" />
 		<DECK_WINDOW_EXTRA_INFO_BOTTOM_LEFT a="255" r="200" g="200" b="200" />
@@ -296,14 +325,14 @@ Changes the thickness of the image used in the menus in Deck Edit: Card Info, Lo
 		<DECK_WINDOW_EXTRA_TOP_RIGHT a="255" r="200" g="200" b="200" />
 		<DECK_WINDOW_EXTRA_BOTTOM_LEFT a="255" r="200" g="200" b="200" />
 		<DECK_WINDOW_EXTRA_BOTTOM_RIGHT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_SIDE_INFO_TOP_LEFT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_SIDE_INFO_TOP_RIGHT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_SIDE_INFO_BOTTOM_LEFT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_SIDE_INFO_BOTTOM_RIGHT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_SIDE_TOP_LEFT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_SIDE_TOP_RIGHT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_SIDE_BOTTOM_LEFT a="255" r="200" g="200" b="200" />
-		<DECK_WINDOW_SIDE_BOTTOM_RIGHT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_MAIN_INFO_TOP_LEFT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_MAIN_INFO_TOP_RIGHT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_MAIN_INFO_BOTTOM_LEFT a="255" r="255" g="255" b="255" />
+		<DECK_WINDOW_MAIN_INFO_BOTTOM_RIGHT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_MAIN_TOP_LEFT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_MAIN_TOP_RIGHT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_MAIN_BOTTOM_LEFT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_MAIN_BOTTOM_RIGHT a="255" r="200" g="200" b="200" />
 		<DECK_WINDOW_SEARCH_RESULT_INFO_TOP_LEFT a="255" r="200" g="200" b="200" />
 		<DECK_WINDOW_SEARCH_RESULT_INFO_TOP_RIGHT a="255" r="200" g="200" b="200" />
 		<DECK_WINDOW_SEARCH_RESULT_INFO_BOTTOM_LEFT a="255" r="200" g="200" b="200" />
@@ -312,27 +341,47 @@ Changes the thickness of the image used in the menus in Deck Edit: Card Info, Lo
 		<DECK_WINDOW_SEARCH_RESULT_TOP_RIGHT a="255" r="200" g="200" b="200" />
 		<DECK_WINDOW_SEARCH_RESULT_BOTTOM_LEFT a="255" r="200" g="200" b="200" />
 		<DECK_WINDOW_SEARCH_RESULT_BOTTOM_RIGHT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_SIDE_INFO_TOP_LEFT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_SIDE_INFO_TOP_RIGHT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_SIDE_INFO_BOTTOM_LEFT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_SIDE_INFO_BOTTOM_RIGHT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_SIDE_TOP_LEFT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_SIDE_TOP_RIGHT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_SIDE_BOTTOM_LEFT a="255" r="200" g="200" b="200" />
+		<DECK_WINDOW_SIDE_BOTTOM_RIGHT a="255" r="200" g="200" b="200" />
 		<DUELFIELD_ANNOUNCE_TEXT_BACKGROUND_COLOR a="255" r="30" g="30" b="30" />
 		<DUELFIELD_ANNOUNCE_TEXT_COLOR a="255" r="30" g="30" b="30" />
-		<DUELFIELD_TOOLTIP_TEXT_BACKROUND_COLOR a="255" r="30" g="30" b="30" />
-		<DUELFIELD_TOOLTIP_TEXT_COLOR a="255" r="30" g="30" b="30" />
-		<DUELFIELD_HOVERED a="255" r="230" g="230" b="230" />
-		<DUELFIELD_LINKED a="255" r="230" g="230" b="230" />
-		<DUELFIELD_MUTUAL_LINKED a="255" r="30" g="255" b="30" />
-		<DUELFIELD_SELECTABLE_FIELD_OUTLINE a="255" r="255" g="255" b="255" />
-		<DUELFIELD_SELECTABLE_CARD_OUTLINE a="255" r="255" g="255" b="255" />
-		<DUELFIELD_HIGHLIGHTING_CARD_OUTLINE a="255" r="255" g="255" b="255" />
 		<DUELFIELD_CARD_SELF_WINDOW_BACKGROUND a="255" r="255" g="255" b="255" />
 		<DUELFIELD_CARD_OPPONENT_WINDOW_BACKGROUND a="255" r="240" g="240" b="240" />
 		<DUELFIELD_CARD_SELECTED_WINDOW_BACKGROUND a="255" r="255" g="200" b="200" />
 		<DUELFIELD_CARD_SELECT_WINDOW_OVERLAY_TEXT a="255" r="255" g="255" b="255" />
 		<DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT a="255" r="255" g="255" b="255" />
-		<PROGRESSBAR_FILL_COLOR  a="255" r="179" g="179" b="179" />
-		<PROGRESSBAR_EMPTY_COLOR  a="255" r="242" g="242" b="242" />
-		<ROOMLIST_TEXTS_COLOR a="255" r="230" g="230" b="230" />
-		<ROOMLIST_NORMAL_ROOM a="255" r="255" g="255" b="255" />
-		<ROOMLIST_CUSTOM_ROOM a="255" r="255" g="255" b="255" />
-		<ROOMLIST_STARTED_ROOM a="255" r="230" g="230" b="230" />
+		<DUELFIELD_CARD_LEVEL a="255" r="255" g="255" b="255" />
+		<DUELFIELD_CARD_LINK a="255" r="255" g="255" b="255" />
+		<DUELFIELD_CARD_PSCALE a="255" r="255" g="255" b="255" />
+		<DUELFIELD_CARD_RANK a="255" r="255" g="255" b="255" />
+		<DUELFIELD_CARD_TUNER_LEVEL a="255" r="255" g="255" b="255" />
+		<DUELFIELD_HIGHER_CARD_ATK a="255" r="255" g="255" b="255" />
+		<DUELFIELD_HIGHER_CARD_DEF a="255" r="255" g="255" b="255" />
+		<DUELFIELD_HIGHLIGHTING_CARD_OUTLINE a="255" r="255" g="255" b="255" />
+		<DUELFIELD_HOVERED a="255" r="230" g="230" b="230" />
+		<DUELFIELD_LINKED a="255" r="230" g="230" b="230" />
+		<DUELFIELD_LOWER_CARD_ATK a="255" r="255" g="255" b="255" />
+		<DUELFIELD_LOWER_CARD_DEF a="255" r="255" g="255" b="255" />
+		<DUELFIELD_LP_1 a="255" r="255" g="255" b="255" />
+		<DUELFIELD_LP_2 a="255" r="255" g="255" b="255" />
+		<DUELFIELD_MUTUAL_LINKED a="255" r="30" g="255" b="30" />
+		<DUELFIELD_STACK a="255" r="255" g="255" b="255" />
+		<DUELFIELD_SELECTABLE_FIELD_OUTLINE a="255" r="255" g="255" b="255" />
+		<DUELFIELD_SELECTABLE_CARD_OUTLINE a="255" r="255" g="255" b="255" />
+		<DUELFIELD_TOOLTIP_TEXT_BACKROUND_COLOR a="255" r="30" g="30" b="30" />
+		<DUELFIELD_TOOLTIP_TEXT_COLOR a="255" r="30" g="30" b="30" />
+		<DUELFIELD_TURN_COUNT a="255" r="255" g="255" b="255" />
+		<DUELFIELD_TURNPLAYER_COLOR a="255" r="255" g="255" b="255" />
+		<DUELFIELD_TURNPLAYER_OUTLINE_COLOR a="255" r="255" g="255" b="255" />
+		<DUELFIELD_UNCHANGED_CARD_ATK a="255" r="255" g="255" b="255" />
+		<DUELFIELD_UNCHANGED_CARD_DEF a="255" r="255" g="255" b="255" />
+		<FPS_TEXT_COLOR a="255" r="245" g="245" b="245" />
 		<LPBAR_1_TOP_LEFT a="255" r="255" g="255" b="255" />
 		<LPBAR_1_TOP_RIGHT a="255" r="255" g="255" b="255" />
 		<LPBAR_1_BOTTOM_LEFT a="255" r="255" g="255" b="255" />
@@ -341,6 +390,22 @@ Changes the thickness of the image used in the menus in Deck Edit: Card Info, Lo
 		<LPBAR_2_TOP_RIGHT a="255" r="255" g="255" b="255" />
 		<LPBAR_2_BOTTOM_LEFT a="255" r="255" g="255" b="255" />
 		<LPBAR_2_BOTTOM_RIGHT a="255" r="255" g="255" b="255" />
+		<PROGRESSBAR_FILL_COLOR  a="255" r="179" g="179" b="179" />
+		<PROGRESSBAR_EMPTY_COLOR  a="255" r="242" g="242" b="242" />
+		<ROOMLIST_TEXTS_COLOR a="255" r="230" g="230" b="230" />
+		<ROOMLIST_NORMAL_ROOM a="255" r="255" g="255" b="255" />
+		<ROOMLIST_CUSTOM_ROOM a="255" r="255" g="255" b="255" />
+		<ROOMLIST_STARTED_ROOM a="255" r="230" g="230" b="230" />
+		<TIMEBAR_1_BOTTOM_LEFT a="255" r="255" g="255" b="255" />
+		<TIMEBAR_1_BOTTOM_RIGHT a="255" r="255" g="255" b="255" />
+		<TIMEBAR_1_TOP_LEFT a="255" r="255" g="255" b="255" />
+		<TIMEBAR_1_TOP_RIGHT a="255" r="255" g="255" b="255" />
+		<TIMEBAR_1_OUTLINE a="255" r="255" g="255" b="255" />
+		<TIMEBAR_2_BOTTOM_LEFT a="255" r="255" g="255" b="255" />
+		<TIMEBAR_2_BOTTOM_RIGHT a="255" r="255" g="255" b="255" />
+		<TIMEBAR_2_TOP_LEFT a="255" r="255" g="255" b="255" />
+		<TIMEBAR_2_TOP_RIGHT a="255" r="255" g="255" b="255" />
+		<TIMEBAR_2_OUTLINE a="255" r="255" g="255" b="255" />
 	</Custom>
 	<Button texture="button.png">
 		<Color a="255" r="255" g="255" b="255" />
