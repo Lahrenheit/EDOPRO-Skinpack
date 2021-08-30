@@ -119,3 +119,20 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>Yu-Gi-Oh Playmat A</summary>
+<p>
+   
+![Screenshot 23](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-23.png)
+![Screenshot 24](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-03-00.png)
+</p>
+</details>
+
+<details><summary>Yu-Gi-Oh Playmat B</summary>
+<p>
+   
+![Screenshot 25](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-35.png)
+![Screenshot 26](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-46.png)
+</p>
+</details>
+
+
