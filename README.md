@@ -87,7 +87,7 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Link Evolution - Custom</summary>
+<details><summary>Link Evolution</summary>
 <p>
  
 ![Screenshot 15](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-07%2013-46-52.png)
