@@ -23,7 +23,7 @@ in user_configs.json or configs.json write
 
 ## Screenshots
 
-<details><summary>Dark Side of Dimensions</summary>
+<details><summary>TDSOD A</summary>
 <p>
  
 ![Screenshot 1](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-44.png)
@@ -31,7 +31,7 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Dark Side of Dimensions - Alt (Alternative)</summary>
+<details><summary>TDSOD B</summary>
 <p>
  
 ![Screenshot 3](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-55.png)
@@ -55,7 +55,7 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Forbidden Memories</summary>
+<details><summary>Forbidden Memories A</summary>
 <p>
  
 ![Screenshot 7](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-55-52.png)
@@ -63,7 +63,7 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Forbidden Memories - Alt (Alternative)</summary>
+<details><summary>Forbidden Memories B</summary>
 <p>
  
 ![Screenshot 9](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-56-31.png)
@@ -103,7 +103,7 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Translucent Blue</summary>
+<details><summary>Translucent Blue A</summary>
 <p>
  
 ![Screenshot 19](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-32-52.png)
@@ -111,7 +111,7 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
-<details><summary>Translucent Blue - Alt (Alternative)</summary>
+<details><summary>Translucent Blue B</summary>
 <p>
    
 ![Screenshot 21](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-14%2013-12-48.png)
