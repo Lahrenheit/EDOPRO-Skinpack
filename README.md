@@ -105,6 +105,14 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>TDSOD C</summary>
+<p>
+ 
+![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-55.png)
+![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-23.png)
+</p>
+</details>
+
 <details><summary>Translucent Blue A</summary>
 <p>
  
