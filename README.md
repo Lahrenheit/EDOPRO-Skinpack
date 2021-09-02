@@ -25,22 +25,6 @@ in user_configs.json or configs.json write
 
 ## Screenshots
 
-<details><summary>TDSOD A</summary>
-<p>
- 
-![Screenshot 1](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-44.png)
-![Screenshot 2](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-10.png)
-</p>
-</details>
-
-<details><summary>TDSOD B</summary>
-<p>
- 
-![Screenshot 3](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-55.png)
-![Screenshot 4](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-23.png)
-</p>
-</details>
-
 <details><summary>Dawn of a New Era</summary>
 <p>
  
@@ -102,6 +86,22 @@ in user_configs.json or configs.json write
  
 ![Screenshot 17](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-12-44.png)
 ![Screenshot 18](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-15-17.png)
+</p>
+</details>
+
+<details><summary>TDSOD A</summary>
+<p>
+ 
+![Screenshot 1](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-44.png)
+![Screenshot 2](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-10.png)
+</p>
+</details>
+
+<details><summary>TDSOD B</summary>
+<p>
+ 
+![Screenshot 3](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-55.png)
+![Screenshot 4](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-23.png)
 </p>
 </details>
 
