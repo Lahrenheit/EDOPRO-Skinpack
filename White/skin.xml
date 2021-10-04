@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Skin>
+	<Properties>
+		<Name data="EDOPro White Skin" />
+		<Author data="Naim" />
+		<Version data="0.1" />
+		<Date data="28-Jan-2020"/>
+		<Desc data="A skin with white elements"/>
+	</Properties>
+	<Global guialpha="255">
+		<EGDC_3D_DARK_SHADOW a="255" r="140" g="140" b="140" />
+		<EGDC_3D_SHADOW a="255" r="255" g="255" b="255" />
+		<EGDC_3D_FACE a="255" r="255" g="255" b="255" />
+		<EGDC_3D_HIGH_LIGHT a="255" r="250" g="250" b="250" />
+		<EGDC_3D_LIGHT a="255" r="255" g="255" b="255" />
+		<EGDC_ACTIVE_BORDER a="255" r="200" g="200" b="200" />
+		<EGDC_ACTIVE_CAPTION a="255" r="35" g="45" b="95" />
+		<EGDC_APP_WORKSPACE a="255" r="255" g="255" b="255" />
+		<EGDC_BUTTON_TEXT a="0" r="0" g="0" b="0" />
+		<EGDC_GRAY_TEXT a="255" r="60" g="60" b="60" />
+		<EGDC_HIGH_LIGHT a="0" r="0" g="0" b="0" />
+		<EGDC_HIGH_LIGHT_TEXT a="255" r="255" g="255" b="255" />
+		<EGDC_INACTIVE_BORDER a="0" r="255" g="255" b="255" />
+		<EGDC_INACTIVE_CAPTION a="255" r="75" g="75" b="95" />
+		<EGDC_TOOLTIP a="255" r="40" g="40" b="40" />
+		<EGDC_TOOLTIP_BACKGROUND a="150" r="70" g="190" b="240" />
+		<EGDC_SCROLLBAR a="255" r="200" g="200" b="200" />
+		<EGDC_WINDOW a="255" r="255" g="255" b="255" />
+		<EGDC_WINDOW_SYMBOL a="255" r="0" g="0" b="0" />
+		<EGDC_ICON a="255" r="45" g="70" b="135" />
+		<EGDC_ICON_HIGH_LIGHT a="255" r="70" g="190" b="240" />
+	</Global>
+	<Custom>
+		<CARDINFO_TYPES_COLOR a="255" r="0" g="0" b="255" />
+		<CARDINFO_STATS_COLOR a="255" r="0" g="0" b="255" />
+		<CARDINFO_ARCHETYPE_TEXT_COLOR a="255" r="0" g="0" b="255" />
+		<CARDINFO_PASSCODE_SCOPE_TEXT_COLOR a="255" r="0" g="0" b="255" />
+		<CARDINFO_IMAGE_BACKGROUND a="255" r="200" g="200" b="255" />
+		<DUELFIELD_ANNOUNCE_TEXT_BACKGROUND_COLOR a="255" r="204" g="204" b="204" />
+		<DUELFIELD_ANNOUNCE_TEXT_COLOR a="255" r="30" g="30" b="30" />
+		<DUELFIELD_TOOLTIP_TEXT_BACKROUND_COLOR a="255" r="30" g="30" b="30" />
+		<DUELFIELD_TOOLTIP_TEXT_COLOR a="255" r="30" g="30" b="30" />
+		<DUELFIELD_HOVERED a="255" r="230" g="230" b="230" />
+		<DUELFIELD_LINKED a="255" r="230" g="230" b="230" />
+		<DUELFIELD_MUTUAL_LINKED a="255" r="30" g="255" b="30" />
+		<DUELFIELD_SELECTABLE_FIELD_OUTLINE a="255" r="230" g="230" b="230" />
+		<DUELFIELD_SELECTABLE_CARD_OUTLINE a="255" r="230" g="230" b="230" />
+		<DUELFIELD_HIGHLIGHTING_CARD_OUTLINE a="255" r="230" g="230" b="230" />
+		<DUELFIELD_CARD_SELF_WINDOW_BACKGROUND a="255" r="230" g="230" b="230" />
+		<DUELFIELD_CARD_OPPONENT_WINDOW_BACKGROUND a="255" r="190" g="190" b="190"/>
+		<DUELFIELD_CARD_SELECT_WINDOW_OVERLAY_TEXT a="255" r="255" g="0" b="0" />
+		<DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT a="255" r="0" g="0" b="255" />
+		<PROGRESSBAR_FILL_COLOR a="255" r="30" g="30" b="255" />
+		<PROGRESSBAR_EMPTY_COLOR a="255" r="230" g="230" b="230" />
+		<ROOMLIST_TEXTS_COLOR a="255" r="230" g="230" b="230" />
+		<LPBAR_1_TOP_LEFT a="210" r="255" g="255" b="255" />
+		<LPBAR_1_TOP_RIGHT a="210" r="255" g="255" b="255" />
+		<LPBAR_1_BOTTOM_LEFT a="210" r="255" g="255" b="255" />
+		<LPBAR_1_BOTTOM_RIGHT a="210" r="255" g="255" b="255" />
+		<LPBAR_2_TOP_LEFT a="210" r="255" g="255" b="255" />
+		<LPBAR_2_TOP_RIGHT a="210" r="255" g="255" b="255" />
+		<LPBAR_2_BOTTOM_LEFT a="210" r="255" g="255" b="255" />
+		<LPBAR_2_BOTTOM_RIGHT a="210" r="255" g="255" b="255" />
+	</Custom>
+</Skin>
