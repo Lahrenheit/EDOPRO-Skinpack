@@ -99,7 +99,7 @@ in user_configs.json or configs.json write
 <p>
  
 ![Screenshot 29](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-23.png)
-![Screenshot 30](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-23.png)
+![Screenshot 30](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-28.png)
 </p>
 </details>
 
