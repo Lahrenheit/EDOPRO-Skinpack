@@ -31,6 +31,14 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>Duel Accelerator</summary>
+<p>
+ 
+![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-50.png)
+![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-56.png)
+</p>
+</details>
+
 <details><summary>Duel Generation</summary>
 <p>
  
@@ -87,6 +95,14 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>Online Ignis</summary>
+<p>
+ 
+![Screenshot 29](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-23.png)
+![Screenshot 30](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-23.png)
+</p>
+</details>
+
 <details><summary>TDSOD A</summary>
 <p>
  
@@ -140,6 +156,14 @@ in user_configs.json or configs.json write
    
 ![Screenshot 25](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-35.png)
 ![Screenshot 26](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-46.png)
+</p>
+</details>
+
+<details><summary>ZusSkin</summary>
+<p>
+   
+![Screenshot 31](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-03-42.png)
+![Screenshot 32](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-03-48.png)
 </p>
 </details>
 
