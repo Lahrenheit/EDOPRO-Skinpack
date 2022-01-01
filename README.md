@@ -106,8 +106,8 @@ in user_configs.json or configs.json write
 <details><summary>Milennial Destiny</summary>
 <p>
  
-![Screenshot 17](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-12-44.png)
-![Screenshot 18](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-08%2017-15-17.png)
+![Screenshot 17](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2001-13-06.png)
+![Screenshot 18](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2001-13-13.png)
 </p>
 </details>
 
