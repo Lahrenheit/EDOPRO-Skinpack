@@ -132,8 +132,8 @@ in user_configs.json or configs.json write
 <details><summary>Splash</summary>
 <p>
    
-![Screenshot 41](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2000-19-31.png)
-![Screenshot 42](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2000-19-36.png)
+![Screenshot 41](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-17-19.png)
+![Screenshot 42](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-17-24.png)
 </p>
 </details>
 
