@@ -124,8 +124,8 @@ in user_configs.json or configs.json write
 <details><summary>Paper</summary>
 <p>
    
-![Screenshot 39](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2023-39-32.png)
-![Screenshot 40](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2023-39-37.png)
+![Screenshot 39](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-12-40.png)
+![Screenshot 40](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-12-46.png)
 </p>
 </details>
 
