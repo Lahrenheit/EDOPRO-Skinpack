@@ -62,8 +62,8 @@ in user_configs.json or configs.json write
 <details><summary>Forbidden Memories A</summary>
 <p>
  
-![Screenshot 7](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-55-52.png)
-![Screenshot 8](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-10%2020-56-04.png)
+![Screenshot 7](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2019-55-30.png)
+![Screenshot 8](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2019-55-35.png)
 </p>
 </details>
 
