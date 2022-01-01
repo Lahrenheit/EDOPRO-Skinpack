@@ -127,6 +127,14 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>Splash</summary>
+<p>
+   
+![Screenshot 39](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2000-19-31.png)
+![Screenshot 40](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2000-19-36.png)
+</p>
+</details>
+
 <details><summary>TDSOD A</summary>
 <p>
  
