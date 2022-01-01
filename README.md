@@ -202,8 +202,8 @@ in user_configs.json or configs.json write
 <details><summary>ZusSkin</summary>
 <p>
    
-![Screenshot 31](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-03-42.png)
-![Screenshot 32](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-03-48.png)
+![Screenshot 31](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2000-37-23.png)
+![Screenshot 32](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2000-37-29.png)
 </p>
 </details>
 
