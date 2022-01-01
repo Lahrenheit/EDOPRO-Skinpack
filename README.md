@@ -23,6 +23,14 @@ in user_configs.json or configs.json write
 
 ## Screenshots
 
+<details><summary>Darkness</summary>
+<p>
+   
+![Screenshot 35](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2021-23-30.png)
+![Screenshot 36](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2021-23-36.png)
+</p>
+</details>
+
 <details><summary>Dawn of a New Era</summary>
 <p>
  
