@@ -116,8 +116,8 @@ in user_configs.json or configs.json write
 <details><summary>Online Ignis</summary>
 <p>
  
-![Screenshot 29](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-23.png)
-![Screenshot 30](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-28.png)
+![Screenshot 29](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-03-35.png)
+![Screenshot 30](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-03-42.png)
 </p>
 </details>
 
