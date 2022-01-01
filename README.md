@@ -92,8 +92,8 @@ in user_configs.json or configs.json write
 <details><summary>Light Flare</summary>
 <p>
    
-![Screenshot 33](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2020-57-18.png)
-![Screenshot 34](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2020-57-29.png)
+![Screenshot 33](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2014-55-59.png)
+![Screenshot 34](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2014-56-04.png)
 </p>
 </details>
 
