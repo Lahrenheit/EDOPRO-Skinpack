@@ -6,7 +6,7 @@ Credits to original creators, I only created MR2020 field, edited skin.xml and s
 
 Discord: Lahrenheit#8564
 
-[HD Pics and Field Downloader](https://github.com/AlexsanderRST/EDOPro-HD-Pics-Downloader) by AlexanderRST
+[HD Pics Downloader](https://github.com/AlexsanderRST/EDOPro-HD-Pics-Downloader) by AlexanderRST
 
 
 ## Setup
