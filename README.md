@@ -119,6 +119,14 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>Paper</summary>
+<p>
+   
+![Screenshot 39](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2022-10-03.png)
+![Screenshot 40](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2022-10-08.png)
+</p>
+</details>
+
 <details><summary>TDSOD A</summary>
 <p>
  
