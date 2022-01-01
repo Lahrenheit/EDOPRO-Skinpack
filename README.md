@@ -44,8 +44,8 @@ in user_configs.json or configs.json write
 <details><summary>Duel Accelerator</summary>
 <p>
  
-![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-50.png)
-![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-30%2016-04-56.png)
+![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2014-48-42.png)
+![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2014-48-48.png)
 </p>
 </details>
 
