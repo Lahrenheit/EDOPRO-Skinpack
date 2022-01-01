@@ -79,6 +79,14 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>Light Flare</summary>
+<p>
+   
+![Screenshot 33](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2020-57-18.png)
+![Screenshot 34](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2020-57-29.png)
+</p>
+</details>
+
 <details><summary>Link Evolution</summary>
 <p>
  
