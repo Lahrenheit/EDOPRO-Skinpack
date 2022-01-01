@@ -159,6 +159,14 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>West</summary>
+<p>
+   
+![Screenshot 37](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2021-33-28.png)
+![Screenshot 38](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2021-33-33.png)
+</p>
+</details>
+
 <details><summary>Yu-Gi-Oh Playmat A</summary>
 <p>
    
