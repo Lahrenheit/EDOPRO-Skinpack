@@ -131,6 +131,14 @@ in user_configs.json or configs.json write
 </p>
 </details>
 
+<details><summary>Rose Pink G</summary>
+<p>
+   
+![Screenshot 43](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-02%2020-38-56.png)
+![Screenshot 44](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-02%2020-39-02.png)
+</p>
+</details>
+
 <details><summary>Splash</summary>
 <p>
    
