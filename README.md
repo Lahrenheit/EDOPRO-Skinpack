@@ -16,7 +16,7 @@ Discord: Lahrenheit#8564
 
 or
 
-in user_configs.json or configs.json write
+in create user_configs.json and write
 
 ```
 {
