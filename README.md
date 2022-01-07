@@ -16,7 +16,7 @@ Discord: Lahrenheit#8564
 
 or
 
-create an file called "user_configs.json" in ProjectIgnis\config and write:
+create a file called "user_configs.json" in ProjectIgnis\config and write:
 
 ```
 {
