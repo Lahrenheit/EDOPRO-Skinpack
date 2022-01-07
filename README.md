@@ -12,7 +12,7 @@ Discord: Lahrenheit#8564
 
 
 ## Setup
-[https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-skinpack/user_configs.json](Place this file "user_configs.json" in the ProjectIgnis\config folder)
+[Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-skinpack/user_configs.json)
 
 or
 
