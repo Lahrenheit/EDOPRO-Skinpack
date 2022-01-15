@@ -169,7 +169,7 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 <details><summary>TDSOD C</summary>
 <p>
  
-![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-09-02%2011-52-28.png)
+![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-15%2020-22-05.png)
 ![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-09-02%2011-52-34.png)
 </p>
 </details>
@@ -185,8 +185,8 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 <details><summary>Translucent Blue B</summary>
 <p>
    
-![Screenshot 21](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-14%2013-12-48.png)
-![Screenshot 22](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-13%2021-00-20.png)
+![Screenshot 21](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-15%2020-22-05.png)
+![Screenshot 22](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-15%2020-22-10.png)
 </p>
 </details>
 
