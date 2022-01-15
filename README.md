@@ -170,7 +170,7 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 <p>
  
 ![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-15%2020-22-05.png)
-![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-09-02%2011-52-34.png)
+![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-15%2020-22-10.png)
 </p>
 </details>
 
