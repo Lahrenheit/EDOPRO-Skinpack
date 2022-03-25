@@ -137,24 +137,24 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 <details><summary>Rose Pink G</summary>
 <p>
    
-![Screenshot 43](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-06%2021-41-40.png)
-![Screenshot 44](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-06%2021-41-45.png)
+![Screenshot 43](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-25-19.png)
+![Screenshot 44](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-28-58.png)
 </p>
 </details>
 
 <details><summary>Splash</summary>
 <p>
    
-![Screenshot 41](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-17-19.png)
-![Screenshot 42](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2015-17-24.png)
+![Screenshot 41](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-46-14.png)
+![Screenshot 42](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-46-19.png)
 </p>
 </details>
 
 <details><summary>TDSOD A</summary>
 <p>
  
-![Screenshot 1](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-44.png)
-![Screenshot 2](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-10.png)
+![Screenshot 1](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-25-37.png)
+![Screenshot 2](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-29-07.png)
 </p>
 </details>
 
