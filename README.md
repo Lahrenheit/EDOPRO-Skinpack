@@ -161,72 +161,72 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 <details><summary>TDSOD B</summary>
 <p>
  
-![Screenshot 3](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-34-55.png)
-![Screenshot 4](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-01-11%2017-35-23.png)
+![Screenshot 3](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-25-47.png)
+![Screenshot 4](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-29-14.png)
 </p>
 </details>
 
 <details><summary>TDSOD C</summary>
 <p>
  
-![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-15%2020-22-05.png)
-![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-15%2020-22-10.png)
+![Screenshot 27](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-25-54.png)
+![Screenshot 28](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-29-21.png)
 </p>
 </details>
 
 <details><summary>Translucent Blue A</summary>
 <p>
  
-![Screenshot 19](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-32-52.png)
-![Screenshot 20](https://github.com/Naewt/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-07-30%2017-33-38.png)
+![Screenshot 19](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-26-04.png)
+![Screenshot 20](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-29-31.png)
 </p>
 </details>
 
 <details><summary>Translucent Blue B</summary>
 <p>
    
-![Screenshot 21](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-14%2013-12-48.png)
-![Screenshot 22](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202020-08-13%2021-00-20.png)
+![Screenshot 21](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-26-13.png)
+![Screenshot 22](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-29-38.png)
 </p>
 </details>
 
 <details><summary>West A</summary>
 <p>
    
-![Screenshot 37](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2021-33-28.png)
-![Screenshot 38](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-12-31%2021-33-33.png)
+![Screenshot 37](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-26-25.png)
+![Screenshot 38](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-29-44.png)
 </p>
 </details>
 
 <details><summary>West B</summary>
 <p>
    
-![Screenshot 43](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2001-46-39.png)
-![Screenshot 44](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2001-46-48.png)
+![Screenshot 43](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-26-32.png)
+![Screenshot 44](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-29-50.png)
 </p>
 </details>
 
 <details><summary>Yu-Gi-Oh Playmat A</summary>
 <p>
    
-![Screenshot 23](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-31%2017-51-13.png)
-![Screenshot 24](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-31%2017-51-21.png)
+![Screenshot 23](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-26-41.png)
+![Screenshot 24](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-30-00.png)
 </p>
 </details>
 
 <details><summary>Yu-Gi-Oh Playmat B</summary>
 <p>
    
-![Screenshot 25](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-35.png)
-![Screenshot 26](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202021-08-30%2012-02-46.png)
+![Screenshot 25](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-26-48.png)
+![Screenshot 26](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-30-06.png)
 </p>
 </details>
 
 <details><summary>ZusSkin</summary>
 <p>
    
-![Screenshot 31](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2000-37-23.png)
-![Screenshot 32](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-01-01%2000-37-29.png)
+![Screenshot 31](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-27-03.png)
+![Screenshot 32](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-30-13.png)
 </p>
 </details>
 
