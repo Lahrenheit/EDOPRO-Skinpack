@@ -8,7 +8,7 @@ Most of them contain old master rule field textures
 
 Discord: Lahrenheit#8564
 
-[HD Pics Downloader](https://github.com/AlexsanderRST/EDOPro-HD-Pics-Downloader) by AlexanderRST
+[HD Pics Downloader](https://github.com/Thunderstarr/EDOPro-HD-Pics-Downloader) by AlexanderRST
 
 
 ## Setup
