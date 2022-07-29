@@ -8,8 +8,6 @@ Most of them contain old master rule field textures
 
 Discord: Lahrenheit#8564
 
-[HD Pics Downloader](https://github.com/Thunderstarr/EDOPro-HD-Pics-Downloader) by AlexanderRST
-
 
 ## Setup
 [Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-skinpack/user_configs.json)
