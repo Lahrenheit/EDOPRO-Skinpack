@@ -12,6 +12,8 @@ Discord: Lahrenheit#8564
 ## Setup
 [Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-skinpack/user_configs.json)
 
+Be patient, edopro have to download all skins and sounds
+
 or
 
 create a file called "user_configs.json" in ProjectIgnis\config and then write:
