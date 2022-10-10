@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Skin>
+	<Properties>
+		<Name data="Dark Red" />
+		<Author data="Logical Nonsense" />
+		<Version data="0.1" />
+		<Date data="2020-03-25"/>
+		<Desc data="A dark red skin for EDOPro by Project Ignis. 
+		Inspired by Naim's [Red] skin."/>
+	</Properties>
+	<Custom>
+		<DUELFIELD_TOOLTIP_TEXT_COLOR a="255" r="255" g="255" b="255" />
+		<DUELFIELD_TOOLTIP_TEXT_BACKGROUND_COLOR a="224" r="87" g="7" b="6" />
+		<CARDINFO_TYPES_COLOR a="255" r="25" g="210" b="255" />
+		<CARDINFO_STATS_COLOR a="255" r="80" g="250" b="50" />
+		<CARDINFO_ARCHETYPE_TEXT_COLOR a="255" r="255" g="50" b="10" />
+		<CARDINFO_PASSCODE_SCOPE_TEXT_COLOR a="255" r="242" g="255" b="0" />
+		<DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT a="255" r="242" g="255" b="0" />
+		<!--Your LP bar-->
+		<LPBAR_1_TOP_LEFT a="255" r="97" g="0" b="0" />
+		<LPBAR_1_TOP_RIGHT a="255" r="195" g="0" b="0" />
+		<LPBAR_1_BOTTOM_LEFT a="255" r="97" g="0" b="0" />
+		<LPBAR_1_BOTTOM_RIGHT a="255" r="195" g="0" b="0" />
+		<!--Opponent's LP bar-->
+		<LPBAR_2_TOP_LEFT a="255" r="195" g="0" b="0" />
+		<LPBAR_2_TOP_RIGHT a="255" r="97" g="0" b="0" />
+		<LPBAR_2_BOTTOM_LEFT a="255" r="195" g="0" b="0" />
+		<LPBAR_2_BOTTOM_RIGHT a="255" r="97" g="0" b="0" />
+		<DUELFIELD_CARD_SELF_WINDOW_BACKGROUND a="250" r="180" g="35" b="10" />
+		<DUELFIELD_CARD_OPPONENT_WINDOW_BACKGROUND a="255" r="80" g="25" b="101" />
+		<CARDINFO_IMAGE_BACKGROUND a="246" r="100" g="21" b="10" />
+	</Custom>
+	<Global guialpha="224">
+		<EGDC_3D_DARK_SHADOW a="255" r="154" g="20" b="2" />
+		<!--Changes the buttons, bottom half -->
+		<EGDC_3D_SHADOW a="166" r="77" g="7" b="0" />
+		<!--Changes window/card info background, bottom right corner-->
+		<EGDC_3D_LIGHT a="255" r="205" g="116" b="116" />
+		<!--Changes the light on the checkboxes/fields-->
+		<EGDC_3D_FACE a="166" r="77" g="7" b="0" />
+		<!--Changes window/card info background, top left corner-->
+		<!-- Face color for three-dimensional display elements and for dialog box backgrounds.-->
+		<EGDC_3D_HIGH_LIGHT a="224" r="145" g="25" b="30" />
+		<EGDC_ACTIVE_BORDER a="255" r="180" g="20" b="20" />
+		<EGDC_ACTIVE_CAPTION a="255" r="255" g="255" b="255" /><!-- Changes the color of the text used for the version name and/or title of menus, WHILE they are enabled. -->
+		<EGDC_APP_WORKSPACE a="0" r="255" g="0" b="0" />
+		<EGDC_BUTTON_TEXT a="255" r="255" g="255" b="255" /><!-- Changes the color of the text used in buttons. Also change the color of the text displayed in "Card Info"-->
+		<EGDC_GRAY_TEXT a="255" r="167" g="167" b="167" /><!-- Changes the color of the text used in box that are "grey", usually. Examples: the phase buttons when pressed, the thext in the "Attribute" and "type" menus, while the "monster" category is not selected-->
+		<EGDC_HIGH_LIGHT a="255" r="95" g="0" b="0" /><!-- Changes the color used as highlight/background for the item you are currently seeing in a drop down selection menu, like the banlist.-->
+		<EGDC_HIGH_LIGHT_TEXT a="255" r="255" g="255" b="255" /><!-- Changes the color of the text used in the main screen's top left menus-->
+		<EGDC_INACTIVE_BORDER a="16" r="0" g="0" b="0" />
+		<EGDC_INACTIVE_CAPTION a="255" r="255" g="255" b="255" /><!-- Changes the color of the text used in for the version name and/or title of menus, WHILE they are disabled test changing it, then go to the main menu and click in a free are, so the menu becomes "inactive"  -->
+		<EGDC_TOOLTIP a="96" r="255" g="0" b="0" />
+		<EGDC_TOOLTIP_BACKGROUND a="96" r="17" g="17" b="61" />
+		<EGDC_SCROLLBAR a="224" r="145" g="25" b="30" /><!-- Changes the color of the scroll bar used in Deck edit's search results-->
+		<EGDC_WINDOW a="255" r="0" g="0" b="57" />
+		<EGDC_WINDOW_SYMBOL a="255" r="255" g="166" b="166" /><!-- Changes the color 'arrows' used in the deck selection dropdown menu and the arrows used when you need to scroll to see more results for something in a selection-->
+		<EGDC_ICON a="255" r="255" g="0" b="0" />
+		<EGDC_ICON_HIGH_LIGHT a="255" r="255" g="0" b="0" />
+		<EGDC_GRAY_WINDOW_SYMBOL a="255" r="190" g="130" b="130" /><!-- Changes the color for the arrows in dropdown menus-->
+		<EGDC_EDITABLE a="160" r="185" g="70" b="70" /><!-- Changes the color for the search boxes while they are available to accept text-->
+		<EGDC_GRAY_EDITABLE a="166" r="94" g="21" b="10" /><!-- Changes the color for the search boxes while they are disabled-->
+		<EGDC_FOCUSED_EDITABLE a="96" r="254" g="95" b="106" /><!-- Changes the color for the search boxes when they are enabled [when you click on them]-->
+	</Global>
+</Skin>
