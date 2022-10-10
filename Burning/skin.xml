@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<Skin>
+    <Properties>
+        <Fallback skin="EGST_BURNING_SKIN"/>
+    </Properties>
+    <Global guialpha="224">
+    </Global>
+</Skin>
