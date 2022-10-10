@@ -14,6 +14,20 @@ Discord: Lahrenheit#8564
 
 Be patient, edopro have to download all skins and sounds
 
+or
+
+create a file called "user_configs.json" in ProjectIgnis\config and then write:
+
+```
+{
+     			"url": "https://github.com/Lahrenheit/EDOPRO-Skinpack",
+      		        "repo_name": "Lahrenheit EDOPro Skinpack",
+     			"repo_path": "./skin/",
+     			"should_update": true,
+     			"should_read": true
+},
+```
+
 ## Screenshots
 
 <details><summary>Darkness</summary>
