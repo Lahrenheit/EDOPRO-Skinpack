@@ -1,0 +1,13 @@
+Terima kasih sudah berkunjung di signerfield
+
+------[ www.signerfield.blogspot.com ]------
+
+Cara menggunakan costum skin YGOPRO :
+Buka YGOPRO folder, lalu buka file yang bernama system.conf
+dengan notepad
+Ubah dengan setingan berikut :
+use_d3d = 0 ubah menjadi use_d3d = 1
+use_skin = 0 ubah menjadi use_skin = 1
+
+Lalu replace folder skin dari signer field ke game folder YGOPRO
+Selesai.
