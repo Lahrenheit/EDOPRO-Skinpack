@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!-- Config file for the GUI Skin (CImageGUISkin)					-->
+<!-- Source border is the border width (in pixels) on the texture	-->
+<!-- Dest border is the border width on the screen (also in pixels)	-->
+<!-- Order of elements dosn't matter								-->
+<!-- <NodeNames> are not case sensitive								-->
+<!-- attribute	= ARE case sensitive								-->
+<!-- Texture	= filename											-->
+<!-- SrcBorder	= top,left,bottom,right								-->
+<!-- DstBorder	= top,left,bottom,right								-->
+<Skin>
+	<Properties>
+		<Name data="Purple - Obsessed" />
+		<Author data="Icematoro" />
+		<Version data="1.0" />
+		<Date data="2020-02-01"/>
+		<Desc data="Icematoro isn't all that good at this."/>
+		<Fallback skin="" />
+	</Properties>
+	
+	<Global guialpha="255">
+		<EGDC_3D_DARK_SHADOW a="255" r="140" g="140" b="140" />
+		<EGDC_3D_SHADOW a="255" r="120" g="52" b="199" />
+		<EGDC_3D_FACE a="255" r="255" g="255" b="255" />
+		<!-- Changes the color used as background in dropdown menus like the banlist selection one and the deck selection dropdown -->
+		<EGDC_3D_HIGH_LIGHT a="255" r="14" g="11" b="18" />
+		<EGDC_3D_LIGHT a="255" r="255" g="255" b="255" />
+		<EGDC_ACTIVE_BORDER a="255" r="200" g="200" b="200" />
+		<!-- Changes the color of the text used infor the version name and/or title of menus, WHILE they are enabled. -->
+		<EGDC_ACTIVE_CAPTION a="255" r="211" g="173" b="255" />
+		<EGDC_APP_WORKSPACE a="255" r="255" g="255" b="255" />
+		<!-- Changes the color of the text used in buttons. Also change the color of the text displayed in "Card Info"-->
+		<EGDC_BUTTON_TEXT a="255" r="255" g="255" b="255" />
+		<!-- Changes the color of the text used in box that are "grey", usually. Examples: the phase buttons when-->
+		<!--pressed, the thext in the "Attribute" and "type" menus, while the "monster" category is not selected-->
+		<EGDC_GRAY_TEXT a="255" r="255" g="255" b="255" />
+		<EGDC_HIGH_LIGHT a="0" r="0" g="0" b="0" />
+		<!-- Changes the color of the text used in the main screen's top left menus-->
+		<EGDC_HIGH_LIGHT_TEXT a="255" r="255" g="255" b="255" />
+		<EGDC_INACTIVE_BORDER a="0" r="255" g="255" b="255" />
+		<!-- Changes the color of the text used in for the version name and/or title of menus, WHILE they are disabled
+			test changing it, then go to the main menu and click in a free are, so the menu becomes "inactive"  -->
+		<EGDC_INACTIVE_CAPTION a="255" r="255" g="255" b="255" />
+		<EGDC_TOOLTIP a="255" r="40" g="40" b="40" />
+		<EGDC_TOOLTIP_BACKGROUND a="150" r="70" g="190" b="240" />
+		<!-- Changes the color of the scroll bar used in Deck edit's search results-->
+		<EGDC_SCROLLBAR a="255" r="70" g="21" b="80" />
+		<EGDC_WINDOW a="255" r="255" g="255" b="255" />
+		<!-- Changes the color 'arrows' used in the deck selection dropdown menu and the arrows used when you need to scroll to see more results for something in a selection-->
+		<EGDC_WINDOW_SYMBOL a="255" r="0" g="0" b="0" />
+		<EGDC_ICON a="255" r="45" g="70" b="135" />
+		<EGDC_ICON_HIGH_LIGHT a="255" r="70" g="190" b="240" />
+		<!-- Changes the coordinates used for the text in the Version name, Update Log, etc-->
+		<Caption tbardistancex="4" tbardistancey="8" />
+		<!-- Changes the width in the'arrows' used in the deck selection dropdown menu, category dropdown menu, etc-->
+		<WindowButton width="24" />
+		<!-- Changes the color used for the check markers in the checkboxes, like the "Show unofficial card" -->
+		<CheckBoxColor a="255" r="33" g="161" b="33" />
+	</Global>
+	
+		<Custom>
+		<!-- Changes the color used for the text with the types (Card Type, Attribute, monster type) in the "Card Info" area-->
+		<CARDINFO_TYPES_COLOR a="255" r="242" g="255" b="0" />
+		<!-- Changes the color used for the text with the stats (level, rank, atk, def) in the "Card Info" area-->
+		<CARDINFO_STATS_COLOR a="255" r="242" g="255" b="0" />
+		<!-- Changes the color used for the Archetype Name in the "Card Info" area -->
+		<CARDINFO_ARCHETYPE_TEXT_COLOR a="255" r="242" g="255" b="0" />
+		<CARDINFO_PASSCODE_SCOPE_TEXT_COLOR a="255" r="242" g="255" b="0" />
+		<!-- Changes the color used as background for the area where the card picture is displayed in Deck Edit -->
+		<CARDINFO_IMAGE_BACKGROUND a="255" r="21" g="21" b="23" />
+		<DUELFIELD_ANNOUNCE_TEXT_BACKGROUND_COLOR a="255" r="30" g="30" b="30" />
+		<!-- Changes the color of the color used in the box after a card is announced. Example: Psi-Blocker -->
+		<DUELFIELD_ANNOUNCE_TEXT_COLOR a="255" r="255" g="255" b="255" />
+		<!-- Changes the color of the color used as background in the tooltip box, the area with the card details when you hover the mouse over it in the field -->
+		<DUELFIELD_TOOLTIP_TEXT_BACKGROUND_COLOR a="200" r="27" g="0" b="46" />
+		<!-- Changes the color of the color used in the text with the tooltip box, the area with the card details when you hover the mouse over it in the field -->
+		<DUELFIELD_TOOLTIP_TEXT_COLOR a="255" r="217" g="192" b="235" />
+		<!-- Changes the color for the zones you are hovering on the field -->
+		<DUELFIELD_HOVERED a="255" r="230" g="230" b="230" />
+		<!-- Changes the color for the zones where a link monster points to -->
+		<DUELFIELD_LINKED a="255" r="230" g="230" b="230" />
+		<!-- Changes the color for the zones where mosters co-linked with the monster that you hover the mouse over are -->
+		<DUELFIELD_MUTUAL_LINKED a="255" r="30" g="255" b="30" />
+		<!-- Changes the color for the borders of a zone , when you have to select it. Example: when selecting a zone to normal summon -->
+		<DUELFIELD_SELECTABLE_FIELD_OUTLINE a="255" r="230" g="230" b="230" />
+		<!-- Changes the color for the borders of a card, when it is selectable. Example: a Maxx C in your hand will have this color when asking you to activate it-->
+		<DUELFIELD_SELECTABLE_CARD_OUTLINE a="255" r="230" g="230" b="230" />
+		<!-- Changes the color for the borders of a card, when it is selected. Example: a card that you add to your hand via Terraforming-->
+		<DUELFIELD_HIGHLIGHTING_CARD_OUTLINE a="255" r="230" g="230" b="230" />
+		<DUELFIELD_CARD_SELF_WINDOW_BACKGROUND a="255" r="28" g="3" b="43" />
+		<!-- Changes the color for area around the caption text when you are selection cards from a group. 
+			Example: when you are selecting what monsters to banish by Block Dragon-->
+		<DUELFIELD_CARD_OPPONENT_WINDOW_BACKGROUND a="255" r="255" g="0" b="0" />
+		<DUELFIELD_CARD_SELECT_WINDOW_OVERLAY_TEXT a="255" r="255" g="255" b="255" />
+		<!-- Changes the color for the caption text when you have to select cards from a location.
+			Example: the "Deck[1], Deck[2], etc, positions shown when you select a card with something like Terraforming-->
+		<DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT a="255" r="242" g="255" b="0" />
+		<DUELFIELD_CARD_SELECTED_WINDOW_BACKGROUND a="255" r="0" g="255" b="255" />
+		<!-- Changes the color for the texts in the room list menu. Examples: the "Server", "Nickname", "show locked rooms" texts-->
+		<ROOMLIST_TEXTS_COLOR a="255" r="230" g="230" b="230" />
+		<!-- Changes the color for a room that didn't have any of its settings changed from the default ones-->
+		<ROOMLIST_NORMAL_ROOM a="250" r="230" g="230" b="230" />
+		<!-- Changes the color for a room that has any of its settings changed from the default ones. Example: different LP, different starting hand, etc-->
+		<ROOMLIST_CUSTOM_ROOM a="255" r="255" g="0" b="0" />
+		<!-- Changes the color for a room, in the room list, that has already started its duel.-->
+		<ROOMLIST_STARTED_ROOM a="255" r="230" g="230" b="230" />
+		
+		<LPBAR_1_TOP_LEFT a="255" r="77" g="0" b="77" />
+		<LPBAR_1_TOP_RIGHT a="255" r="77" g="0" b="77" />
+		<LPBAR_1_BOTTOM_LEFT a="255" r="77" g="0" b="77" />
+		<LPBAR_1_BOTTOM_RIGHT a="255"r="77" g="0" b="77" />
+		<LPBAR_2_TOP_LEFT a="255" r="77" g="0" b="77" />
+		<LPBAR_2_TOP_RIGHT a="255" r="77" g="0" b="77" />
+		<LPBAR_2_BOTTOM_LEFT a="255" r="77" g="0" b="77" />
+		<LPBAR_2_BOTTOM_RIGHT a="255" r="77" g="0" b="77" />
+	</Custom>
+	
+	<Button texture="button.png">
+		<SrcBorder tlx="3" tly="3" brx="3" bry="3" />
+		<DstBorder tlx="3" tly="3" brx="3" bry="3" />
+		<Pressed texture="ButtonPressed.png">
+			<SrcBorder tlx="3" tly="3" brx="3" bry="3" />
+			<DstBorder tlx="3" tly="3" brx="3" bry="3" />
+			<!-- Changes the background color used when a button is pressed." -->
+			<Color r="255" g="255" b="255" a="255" />
+		</Pressed>
+		<ButtonDisabled texture="ButtonDisabled.png">
+			<SrcBorder tlx="3" tly="3" brx="3" bry="3" />
+			<DstBorder tlx="3" tly="3" brx="3" bry="3" />
+			<Color r="255" g="255" b="255" a="255" />
+		</ButtonDisabled>
+	</Button>
+
+	<MenuBar texture="MenuBar.png">
+		<!-- Changes the size of the image used in for the top bar in the main menu.
+		Changes are visible only when setting brx and bry are set to higher values-->
+		<SrcBorder tlx="3" tly="3" brx="3" bry="3" />
+		<DstBorder tlx="3" tly="3" brx="3" bry="3" />
+		<MenuPane texture="MenuPane.png">
+			<SrcBorder tlx="3" tly="3" brx="3" bry="3" />
+			<DstBorder tlx="3" tly="3" brx="3" bry="3" />
+			<!-- Changes the color used in the background panel for the menus in the main screen, like the "Repository Status" menu -->
+			<Color r="255" g="255" b="255" a="255" />
+		</MenuPane>
+		<MenuPressed texture="MenuPressed.png">
+			<SrcBorder tlx="3" tly="3" brx="3" bry="3" />
+			<DstBorder tlx="3" tly="3" brx="3" bry="3" />
+			<Color r="255" g="255" b="255" a="255" />
+		</MenuPressed>
+	</MenuBar>
+
+	<CheckBox texture="CheckBox.png">
+		<!-- Changes the size of the image used in the checkboxes like the ones used
+			in Deck Edit's "Show unofficial cards" or the "Effect" boxes -->
+		<SrcBorder tlx="1" tly="1" brx="1" bry="1" />
+		<DstBorder tlx="1" tly="1" brx="1" bry="1" />
+		<CheckBoxDisabled texture="CheckBoxDisabled.png">
+			<SrcBorder tlx="1" tly="1" brx="1" bry="1" />
+			<DstBorder tlx="1" tly="1" brx="1" bry="1" />
+		</CheckBoxDisabled>
+	</CheckBox>
+
+	<ComboBox texture="ComboBox.png">
+		<SrcBorder tlx="1" tly="1" brx="1" bry="1" />
+		<DstBorder tlx="1" tly="1" brx="1" bry="1" />
+		<ComboBoxDisabled texture="ComboBoxDisabled.png">
+			<SrcBorder tlx="1" tly="1" brx="1" bry="1" />
+			<DstBorder tlx="1" tly="1" brx="1" bry="1" />
+		</ComboBoxDisabled>
+	</ComboBox>
+
+	<SunkenPane texture="sunkenpane.png">
+	<!--This file is used as "background" for areas of the client, including:
+	-the area where the card name and its ID is displayed, in deck edit
+	-the area where texts are displayed in LAN mode
+	-the are where the card picture is displayed
+	-the area where a replay name is typed, when savinng it
+	-the area in deck edit where all the multiple filters and menus are placed-->
+		<SrcBorder tlx="10" tly="10" brx="10" bry="10" />
+		<DstBorder tlx="10" tly="10" brx="10" bry="10" />
+	</SunkenPane>
+
+	<TabControl texture="TabControl.png">
+		<!-- Changes the thickness of the image used in the menus in Deck Edit: Card Info, Log, Settings, etc
+			if you set the values to high, it will become not visible -->
+		<SrcBorder tlx="10" tly="10" brx="10" bry="10" />
+		<DstBorder tlx="10" tly="10" brx="10" bry="10" />
+		<TabButton texture="TabButton.png">
+			<SrcBorder tlx="3" tly="3" brx="3" bry="3" />
+			<DstBorder tlx="3" tly="3" brx="3" bry="3" />
+		</TabButton>
+		<TabButtonPressed texture="TabButtonPressed.png">
+			<SrcBorder tlx="10" tly="10" brx="10" bry="10" />
+			<DstBorder tlx="10" tly="10" brx="10" bry="10" />
+		</TabButtonPressed>
+	</TabControl>
+  
+	<Window texture="windowbg.png">
+		<SrcBorder tlx="25" tly="5" brx="5" bry="1" />
+		<DstBorder tlx="25" tly="5" brx="5" bry="1" />
+	</Window>
+	
+	<ProgressBar texture="gauge1.png">
+		<SrcBorder tlx="16" tly="16" brx="16" bry="16" />
+		<DstBorder tlx="16" tly="16" brx="16" bry="16" />
+		<Color a="150" r="255" g="255" b="255"/>
+		<Filled texture="gauge2.png">
+			<SrcBorder tlx="16" tly="16" brx="16" bry="16" />
+			<DstBorder tlx="16" tly="16" brx="16" bry="16" />
+			<Color a="255" r="255" g="255" b="255" />
+		</Filled>
+  </ProgressBar>
+</Skin>
