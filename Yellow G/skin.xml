@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!-- Config file for the GUI Skin (CImageGUISkin)					-->
+<!-- Source border is the border width (in pixels) on the texture	-->
+<!-- Dest border is the border width on the screen (also in pixels)	-->
+<!-- Order of elements dosn't matter								-->
+<!-- <NodeNames> are not case sensitive								-->
+<!-- attribute	= ARE case sensitive								-->
+<!-- Texture	= filename											-->
+<!-- SrcBorder	= top,left,bottom,right								-->
+<!-- DstBorder	= top,left,bottom,right								-->
+<Skin>
+<Properties>
+		<Name data="Yellow By gillygabyte" />
+		<Author data="@gillygabyte" />
+		<Version data="1.0" />
+		<Date data="2020-04-05"/>
+		<Desc data="A skin for EDOPro by @gillygabyte."/>
+		<!-- Please follow me on my social media. Twitter: @gillygabyte | Youtube: gillygabyte | Twitch: gillygabyte -->
+		<!-- TCGPlayer Affiliate Link: http://bit.ly/TCGGillyGabyte	-->
+		
+	</Properties>
+<Custom>
+<!-- Gray 		a="255" r="170" g="170" b="170" -->
+<!-- Red 		a="255" r="255" g="134" b="134" -->
+<!-- Orange 	a="255" r="255" g="137" b="99" --> 
+<!-- Yellow 	a="255" r="255" g="255" b="0" --> 
+<!-- Green 		a="255" r="0" g="179" b="55" --> 
+<!-- Blue 		a="255" r="136" g="167" b="255" --> 
+<!-- Cyan 		a="255" r="0" g="204" b="255" -->
+<!-- Pink 		a="255" r="255" g="124" b="205" --> 
+<!-- Purple 	a="255" r="199" g="146" b="255" --> 
+
+
+
+		<CARDINFO_TYPES_COLOR 					a="255" r="255" g="255" b="0" /> 	<!-- Changes the color used for the text with the types (Card Type, Attribute, monster type) in the "Card Info" area-->
+		<CARDINFO_STATS_COLOR 					a="255" r="255" g="255" b="0" />		<!-- Changes the color used for the text with the stats (level, rank, atk, def) in the "Card Info" area-->
+		<CARDINFO_ARCHETYPE_TEXT_COLOR 			a="255" r="255" g="255" b="0" />		<!-- Changes the color used for the Archetype Name in the "Card Info" area -->
+		<CARDINFO_PASSCODE_SCOPE_TEXT_COLOR 	a="255" r="255" g="255" b="0" />		<!-- Changes the color used for the Passcode Number in the "Card Info" area -->
+		<CARDINFO_IMAGE_BACKGROUND 				a="255" r="18" g="18" b="18" />		<!-- Changes the color used as background for the area where the card picture is displayed in Deck Edit -->
+		<FPS_TEXT_COLOR 						a="255" r="225" g="225" b="225" />
+		
+		
+		
+		
+		
+		<DECK_WINDOW_MAIN_INFO_TOP_LEFT 				a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_MAIN_INFO_TOP_RIGHT 				a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_MAIN_INFO_BOTTOM_LEFT 				a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_MAIN_INFO_BOTTOM_RIGHT 			a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_MAIN_TOP_LEFT 						a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_MAIN_TOP_RIGHT 					a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_MAIN_BOTTOM_LEFT 					a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_MAIN_BOTTOM_RIGHT 					a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_EXTRA_INFO_TOP_LEFT 				a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_EXTRA_INFO_TOP_RIGHT 				a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_EXTRA_INFO_BOTTOM_LEFT 			a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_EXTRA_INFO_BOTTOM_RIGHT 			a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_EXTRA_TOP_LEFT 					a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_EXTRA_TOP_RIGHT 					a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_EXTRA_BOTTOM_LEFT 					a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_EXTRA_BOTTOM_RIGHT 				a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SIDE_INFO_TOP_LEFT 				a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SIDE_INFO_TOP_RIGHT 				a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SIDE_INFO_BOTTOM_LEFT 				a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SIDE_INFO_BOTTOM_RIGHT 			a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SIDE_TOP_LEFT 						a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SIDE_TOP_RIGHT 					a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SIDE_BOTTOM_LEFT 					a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SIDE_BOTTOM_RIGHT 					a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SEARCH_RESULT_INFO_TOP_LEFT 		a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SEARCH_RESULT_INFO_TOP_RIGHT 		a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SEARCH_RESULT_INFO_BOTTOM_LEFT 	a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SEARCH_RESULT_INFO_BOTTOM_RIGHT 	a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SEARCH_RESULT_TOP_LEFT 			a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SEARCH_RESULT_TOP_RIGHT 			a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SEARCH_RESULT_BOTTOM_LEFT 			a="255" r="18" g="18" b="18" />
+		<DECK_WINDOW_SEARCH_RESULT_BOTTOM_RIGHT 		a="255" r="18" g="18" b="18" />
+
+
+
+
+
+		<DUELFIELD_ANNOUNCE_TEXT_BACKGROUND_COLOR 	a="255" r="18" g="18" b="18" /> 	<!-- Changes the color of the color used in the box background after a card is announced. Example: Psi-Blocker -->
+		<DUELFIELD_ANNOUNCE_TEXT_COLOR 				a="255" r="255" g="255" b="0" />		<!-- Changes the color of the color used in the box after a card is announced. Example: Psi-Blocker -->
+		<DUELFIELD_TOOLTIP_TEXT_BACKGROUND_COLOR 	a="210" r="39" g="39" b="39" />		<!-- Changes the color of the color used in the text with the tooltip box, the area with the card details when you hover the mouse over it in the field -->
+		<DUELFIELD_TOOLTIP_TEXT_COLOR 				a="255" r="225" g="225" b="225" />	<!-- Changes the color for the zones you are hovering on the field -->
+		<DUELFIELD_HOVERED 							a="255" r="255" g="255" b="0" />		<!-- Changes the color for the zones you are hovering on the field -->
+		<DUELFIELD_LINKED 							a="255" r="32" g="108" b="163" />	<!-- Changes the color for the zones where mosters co-linked with the monster that you hover the mouse over are -->
+		<DUELFIELD_MUTUAL_LINKED 					a="255" r="255" g="52" b="0" />		<!-- Changes the color for the borders of a zone , when you have to select it. Example: when selecting a zone to normal summon -->
+		<DUELFIELD_SELECTABLE_FIELD_OUTLINE 		a="255" r="255" g="255" b="0" />		<!-- Changes the color for the borders of a card, when it is selectable. Example: a Maxx C in your hand will have this color when asking you to activate it-->
+		<DUELFIELD_SELECTABLE_CARD_OUTLINE 			a="255" r="255" g="255" b="0" />		<!-- Changes the color for the borders of a card, when it is selected. Example: a card that you add to your hand via Terraforming-->
+		<DUELFIELD_HIGHLIGHTING_CARD_OUTLINE		a="255" r="255" g="255" b="0" />
+		<DUELFIELD_CARD_SELF_WINDOW_BACKGROUND 		a="255" r="255" g="255" b="0" />
+		<DUELFIELD_CARD_OPPONENT_WINDOW_BACKGROUND 	a="255" r="18" g="18" b="18" />		<!-- Changes the color for area around the caption text when you are selection cards from a group. 
+																						Example: when you are selecting what monsters to banish by Block Dragon-->
+		<DUELFIELD_CARD_SELECTED_WINDOW_BACKGROUND 	a="255" r="255" g="255" b="0" />
+		<DUELFIELD_CARD_SELECT_WINDOW_OVERLAY_TEXT 	a="255" r="225" g="225" b="225" />	<!-- Changes the color for the caption text when you have to select cards from a location.
+																						Example: the "Deck[1], Deck[2], etc, positions shown when you select a card with something like Terraforming-->
+		<DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT 		a="255" r="225" g="225" b="225" />	<!-- Changes the color for the texts in the room list menu. Examples: the "Server", "Nickname", "show locked rooms" texts-->
+
+
+
+
+
+		<PROGRESSBAR_FILL_COLOR 	a="255" r="255" g="255" b="0" />
+		<PROGRESSBAR_EMPTY_COLOR  	a="255" r="18" g="18" b="18" />
+		<ROOMLIST_TEXTS_COLOR 		a="255" r="225" g="225" b="225" />		<!-- Changes the color for a room that didn't have any of its settings changed from the default ones-->
+		<ROOMLIST_NORMAL_ROOM 		a="0" r="18" g="18" b="18" />			<!-- Changes the color for a room that has any of its settings changed from the default ones. Example: different LP, different starting hand, etc-->
+		<ROOMLIST_CUSTOM_ROOM 		a="255" r="255" g="255" b="0" />			<!-- Changes the color for a room, in the room list, that has already started its duel.-->
+		<ROOMLIST_STARTED_ROOM 		a="255" r="179" g="55" b="0" />
+		
+		
+		
+		
+		
+		<!--Your Life Point bar-->
+		<LPBAR_1_TOP_LEFT 		a="255" r="18" g="18" b="18" />
+		<LPBAR_1_TOP_RIGHT 		a="255" r="255" g="255" b="0" />
+		<LPBAR_1_BOTTOM_LEFT 	a="255" r="18" g="18" b="18" />
+		<LPBAR_1_BOTTOM_RIGHT 	a="255" r="255" g="255" b="0" />
+		
+		<!--Opponent's Life Point bar-->
+		<LPBAR_2_TOP_LEFT 		a="255" r="255" g="255" b="0" />
+		<LPBAR_2_TOP_RIGHT 		a="255" r="18" g="18" b="18" />
+		<LPBAR_2_BOTTOM_LEFT 	a="255" r="255" g="255" b="0" />
+		<LPBAR_2_BOTTOM_RIGHT 	a="255" r="18" g="18" b="18" />
+</Custom>
+<Global guialpha="255">
+		<EGDC_3D_DARK_SHADOW 		a="255" r="18" g="18" b="18" /> 	<!-- Dark shadow for three-dimensional display elements. button gradient  -->
+		<EGDC_3D_SHADOW 			a="255" r="39" g="39" b="39" />     <!-- Shadow color for three-dimensional display elements (for edges facing away from the light source).  Big Box Gradients -->
+		<EGDC_3D_FACE 				a="225" r="18" g="18" b="18" />		<!-- Face color for three-dimensional display elements and for dialog box backgrounds.   -->
+		<EGDC_3D_HIGH_LIGHT 		a="255" r="18" g="18" b="18" />		<!-- Highlight color for Drop downs.).   -->
+		<EGDC_3D_LIGHT 				a="255" r="255" g="255" b="0"/>		<!-- Light color for three-dimensional display elements (for edges facing the light source.). GREEN -->
+		<EGDC_ACTIVE_BORDER 		a="255" r="255" g="255" b="0"/>		<!-- Active window border. Pop up in front window -->
+		<EGDC_ACTIVE_CAPTION 		a="255" r="18" g="18" b="18" />		<!-- Active window title bar text --> 
+		<EGDC_APP_WORKSPACE 		a="255" r="18" g="18" b="18" />		<!-- Background color of multiple document interface (MDI) applications. -->
+		<EGDC_BUTTON_TEXT 			a="255" r="225" g="225" b="225" />	<!-- Text on a button. --> 
+		<EGDC_GRAY_TEXT 			a="255" r="225" g="225" b="225" />	<!-- Grayed (disabled) text. -->
+		<EGDC_HIGH_LIGHT 			a="255" r="255" g="255" b="0" />		<!-- Item(s) selected in a control. Drop downs when selected background-->  
+		<EGDC_HIGH_LIGHT_TEXT 		a="255" r="18" g="18" b="18" />		<!-- Text of item(s) selected in a control. --> 
+		<EGDC_INACTIVE_BORDER 		a="255" r="18" g="18" b="18" />		<!-- Inactive window border. START HERE -->  
+		<EGDC_INACTIVE_CAPTION 		a="255" r="225" g="225" b="225" />	<!-- Inactive window caption. -->  
+		<EGDC_TOOLTIP 				a="255" r="225" g="225" b="225" />	<!-- Tool tip text color. --> 
+		<EGDC_TOOLTIP_BACKGROUND 	a="150" r="18" g="18" b="18" />		<!-- Tool tip background color. --> 
+		<EGDC_SCROLLBAR 			a="255" r="255" g="255" b="0" />		<!-- Scrollbar gray area. This ONLY applies to the default scrollbar, if you want to change the colors of the graphical one, change the color attributes in the section near the bottom -->  
+		<EGDC_WINDOW 				a="255" r="18" g="18" b="18" />		<!-- Window background. -->  
+		<EGDC_WINDOW_SYMBOL 		a="255" r="255" g="255" b="0" />		<!-- Window symbols like on close buttons, scroll bars and check boxes.  -->
+		<EGDC_ICON 					a="255" r="18" g="18" b="18" />		<!-- Icons in a list or tree. -->  
+		<EGDC_ICON_HIGH_LIGHT 		a="255" r="255" g="255" b="0" />		<!-- Selected icons in a list or tree. -->
+		<EGDC_GRAY_WINDOW_SYMBOL 	a="255" r="255" g="255" b="0" />		<!-- Changes the color for the arrows in dropdown menus-->
+		<EGDC_EDITABLE 				a="255" r="18" g="18" b="18" />		<!-- Changes the color for the search boxes while they are available to accept text-->
+		<EGDC_GRAY_EDITABLE 		a="255" r="255" g="255" b="0" />		<!-- Changes the color for the search boxes while they are disabled-->
+		<EGDC_FOCUSED_EDITABLE 		a="255" r="18" g="18" b="18" />		<!-- Changes the color for the search boxes when they are enabled [when you click on them]-->
+		
+		
+		
+		
+		
+		<Fallback skin="EGST_WINDOWS_CLASSIC"/>
+</Global>
