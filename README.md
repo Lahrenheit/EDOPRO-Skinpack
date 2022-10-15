@@ -8,7 +8,7 @@ Most of them contain old master rule field textures
 
 Discord: Lahrenheit#8564
 
-[All HD Cards here](https://github.com/Deadsy9777/Project-Ignis-HD-Cards)
+[All HD cards here](https://github.com/Deadsy9777/Project-Ignis-HD-Cards)
 
 [Rush HD cards here](https://github.com/Yoshi80/Rush-HD-Pictures)
 
