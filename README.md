@@ -12,6 +12,10 @@ Discord: Lahrenheit#8564
 
 [Rush HD cards here](https://github.com/Yoshi80/Rush-HD-Pictures)
 
+[Parche Idioma Español](https://github.com/Yoshi80/Rush-HD-Pictures](https://github.com/ryoken08/CDBEsp)
+
+
+
 
 ## Setup
 [Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-skinpack/user_configs.json)
