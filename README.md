@@ -12,7 +12,7 @@ Discord: Lahrenheit#8564
 
 [Rush HD cards here](https://github.com/Yoshi80/Rush-HD-Pictures)
 
-[Parche Idioma Español](https://github.com/ryoken08/CDBEsp) [Video](https://www.youtube.com/watch?v=TpbRVKie3qA&ab_channel=MatiasA.Saavedra)
+[Parche Idioma Español](https://github.com/ryoken08/CDBEsp) - [Video](https://www.youtube.com/watch?v=TpbRVKie3qA&ab_channel=MatiasA.Saavedra)
 
 
 
