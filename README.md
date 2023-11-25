@@ -6,7 +6,6 @@ Credits to original creators, I only created MR2020 field, edited skin.xml and s
 
 Most of them contain old master rule field textures
 
-Discord: Lahrenheit#8564
 
 [All HD cards here](https://github.com/Deadsy9777/Project-Ignis-HD-Cards)
 
