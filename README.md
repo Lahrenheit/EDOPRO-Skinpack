@@ -17,9 +17,11 @@ Most of them contain old master rule field textures
 
 
 ## Setup
-[Place this file "user_configs.json" in the ProjectIgnis\config folder](for spanish users)(https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-eng/user_configs.json)
+(for spanish users)
+[Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-eng/user_configs.json)
 
-[Place this file "user_configs.json" in the ProjectIgnis\config folder](for english users)(https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro/user_configs.json)
+(for english users)
+[Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro/user_configs.json)
 
 Be patient, edopro have to download all skins and sounds
 
