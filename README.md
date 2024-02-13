@@ -1,8 +1,10 @@
-# EDOPRO-Skinpack
+# EDOPRO-Skinpack [![Donate](https://tinyurl.com/2fjj49ru)](http://tinyurl.com/lahrenheit)
 Skins edited by Lahrenheit for EDOPRO (with MR2020)
 
 
-Credits to original creators, I only created MR2020 field, edited skin.xml and some textures to work properly
+
+
+I created MR2020 field, edited skin.xml and some textures to work properly
 
 Most of them contain old master rule field textures
 
