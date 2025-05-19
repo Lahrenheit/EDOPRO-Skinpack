@@ -11,7 +11,7 @@ Most of them contain old master rule field textures
 Compatible with all plataforms (tested in PC and Mobile versions, let me know if exists any issues)
 
 
-[All HD cards here](https://github.com/Deadsy9777/Project-Ignis-HD-Cards)
+[All HD cards downloader here](https://github.com/NiiMiyo/EDOPro-Hd-Downloader)
 
 [Rush HD cards here](https://github.com/Yoshi80/Rush-HD-Pictures)
 
