@@ -19,7 +19,7 @@ Compatible with all plataforms (tested in PC and Mobile versions, let me know if
 
 
 # !!!
-if you want more skins [check here](https://edoprohd.epizy.com/) 
+if you want more skins [check here](https://edoprohd.epizy.com/) (these are not mine)
 
 
 
