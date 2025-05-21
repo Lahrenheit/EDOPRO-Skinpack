@@ -18,6 +18,10 @@ Compatible with all plataforms (tested in PC and Mobile versions, let me know if
 [Parche Idioma Español](https://github.com/ryoken08/CDBEsp) - [Video](https://www.youtube.com/watch?v=TpbRVKie3qA&ab_channel=MatiasA.Saavedra)
 
 
+# !!!
+if you want more skins [check here](https://edoprohd.epizy.com/) 
+
+
 
 
 ## Setup
