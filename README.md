@@ -17,9 +17,12 @@ Compatible with all plataforms (tested in PC and Mobile versions, let me know if
 
 [Parche Idioma Español](https://github.com/ryoken08/CDBEsp) - [Video](https://www.youtube.com/watch?v=TpbRVKie3qA&ab_channel=MatiasA.Saavedra)
 
+[Parche Idioma Español Alternativo (Nombres de las cartas en inglés)](https://github.com/josevdr95new/cdbespa-alternativo)
+
 
 # !!!
-if you want more skins [check here](https://edoprohd.epizy.com/) (these are not mine)
+if you want more skins [check here](https://edoprohd.epizy.com/) and [here](https://github.com/josevdr95new/EDOPro-SkinLibrary) (these are not mine)
+
 
 
 
