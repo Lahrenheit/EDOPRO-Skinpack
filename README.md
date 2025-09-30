@@ -11,7 +11,9 @@ Most of them contain old master rule field textures
 Compatible with all plataforms (tested in PC and Mobile versions, let me know if exists any issues)
 
 
-[HD cards downloader here](https://github.com/NiiMiyo/EDOPro-Hd-Downloader) - [>>>>>>>>>> All HD Cards and Fields Pack <<<<<<<<<<](https://www.mediafire.com/folder/ctocsu109hfnu/EDOPro)
+[HD cards downloader here](https://github.com/NiiMiyo/EDOPro-Hd-Downloader) 
+
+[>>>>>>>>>> All HD Cards and Fields Pack <<<<<<<<<<](https://www.mediafire.com/folder/ctocsu109hfnu/EDOPro)
 
 [Rush HD cards here](https://github.com/Yoshi80/Rush-HD-Pictures)
 
