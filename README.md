@@ -13,6 +13,8 @@ Compatible with all plataforms (tested in PC and Mobile versions, let me know if
 
 [HD cards downloader here](https://github.com/NiiMiyo/EDOPro-Hd-Downloader) 
 
+[HD cards downloader here (recommended)](https://github.com/Armytille/EDOPro-HD-Pics-Downloader)
+
 [>>>>>>>>>> All HD Cards and Fields Pack <<<<<<<<<<](https://www.mediafire.com/folder/ctocsu109hfnu/EDOPro)
 
 [Rush HD cards here](https://github.com/Yoshi80/Rush-HD-Pictures)
