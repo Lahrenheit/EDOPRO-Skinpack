@@ -88,6 +88,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 </p>
 </details>
 
+<details><summary>Dueling Book</summary>
+<p>
+ 
+![Screenshot 71](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2015-55-23.png)
+![Screenshot 72](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2015-55-29.png)
+</p>
+</details>
+
 <details><summary>Forbidden Memories A</summary>
 <p>
  
