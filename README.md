@@ -104,6 +104,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 </p>
 </details>
 
+<details><summary>Forest of Endless White Edit</summary>
+<p>
+ 
+![Screenshot 50](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-46-55.png)
+![Screenshot 52](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-47-19.png)
+</p>
+</details>
+
 <details><summary>Joey The Passion</summary>
 <p>
  
@@ -133,6 +141,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
  
 ![Screenshot 15](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-24-34.png)
 ![Screenshot 16](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-28-24.png)
+</p>
+</details>
+
+<details><summary>Master Duel Edit</summary>
+<p>
+ 
+![Screenshot 53](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-48-13.png)
+![Screenshot 54](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-48-29.png)
 </p>
 </details>
 
@@ -168,6 +184,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 </p>
 </details>
 
+<details><summary>Rose Pink G 2</summary>
+<p>
+   
+![Screenshot 55](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-49-01.png)
+![Screenshot 56](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-49-16.png)
+</p>
+</details>
+
 <details><summary>Splash</summary>
 <p>
    
@@ -200,6 +224,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 </p>
 </details>
 
+<details><summary>TDSOD D</summary>
+<p>
+ 
+![Screenshot 57](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-50-00.png)
+![Screenshot 58](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-50-12.png)
+</p>
+</details>
+
 <details><summary>Translucent Blue A</summary>
 <p>
  
@@ -229,6 +261,14 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
    
 ![Screenshot 43](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-26-32.png)
 ![Screenshot 44](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202022-03-25%2014-29-50.png)
+</p>
+</details>
+
+<details><summary>YGOMobile-OCG</summary>
+<p>
+   
+![Screenshot 59](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-50-42.png)
+![Screenshot 60](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-27%2011-51-02.png)
 </p>
 </details>
 
