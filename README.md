@@ -11,7 +11,6 @@ Most of them contain old master rule field textures
 Compatible with all plataforms (tested in PC and Mobile versions, let me know if exists any issues)
 
 
-[HD cards downloader here](https://github.com/NiiMiyo/EDOPro-Hd-Downloader) 
 
 [HD cards downloader here (recommended)](https://github.com/Armytille/EDOPro-HD-Pics-Downloader)
 
