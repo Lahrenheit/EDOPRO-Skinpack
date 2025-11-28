@@ -1,4 +1,4 @@
-# EDOPRO-Skinpack [![Donate](https://tinyurl.com/2fjj49ru)](http://tinyurl.com/lahrenheit)
+# EDOPRO-Skinpack
 Skins edited by Lahrenheit for EDOPRO (with MR2020)
 
 
