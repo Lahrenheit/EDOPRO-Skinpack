@@ -26,13 +26,13 @@ Compatible with all plataforms (tested in PC and Mobile versions, let me know if
 ---
 
 
-# !!!
+# ❗❗❗
 if you want more skins [check here](https://edoprohd.epizy.com/) and [here](https://github.com/josevdr95new/EDOPro-SkinLibrary) (these are not mine)
 
 ---
 
 
-## Setup
+## 🛠️ Setup
 (for english users)
 [Place this file "user_configs.json" in the ProjectIgnis\config folder](https://github.com/Lahrenheit/EDOPRO-Skinpack/releases/download/edopro-eng/user_configs.json)
 
@@ -57,7 +57,7 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 
 ---
 
-## Screenshots
+## 🖼️ Screenshots
 
 <details><summary>Darkness</summary>
 <p>
