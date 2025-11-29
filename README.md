@@ -1,6 +1,7 @@
-# EDOPRO-Skinpack
+# <img src="https://projectignis.github.io/assets/img/ignis_logo.png" width="80"/>EDOPRO-Skinpack
 Skins edited by Lahrenheit for EDOPRO (with MR2020)
 
+---
 
 
 
@@ -22,12 +23,13 @@ Compatible with all plataforms (tested in PC and Mobile versions, let me know if
 
 [Parche Idioma Español Alternativo (Nombres de las cartas en inglés)](https://github.com/josevdr95new/cdbespa-alternativo)
 
+---
+
 
 # !!!
 if you want more skins [check here](https://edoprohd.epizy.com/) and [here](https://github.com/josevdr95new/EDOPro-SkinLibrary) (these are not mine)
 
-
-
+---
 
 
 ## Setup
@@ -52,6 +54,8 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
      			"should_read": true
 },
 ```
+
+---
 
 ## Screenshots
 
@@ -303,4 +307,5 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 </p>
 </details>
 
+---
 
