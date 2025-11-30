@@ -238,8 +238,8 @@ create a file called "user_configs.json" in ProjectIgnis\config and then write:
 <details><summary>TDSOD D</summary>
 <p>
  
-![Screenshot 57](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-29%2014-34-10.png)
-![Screenshot 58](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-29%2014-34-16.png)
+![Screenshot 57](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-30%2015-07-56.png)
+![Screenshot 58](https://github.com/Lahrenheit/EDOPRO-Skinpack/blob/screenshots/EDOPro%202025-11-30%2015-08-05.png)
 </p>
 </details>
 
