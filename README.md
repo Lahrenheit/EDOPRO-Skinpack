@@ -29,6 +29,8 @@ Compatible with all plataforms (tested in PC and Mobile versions, let me know if
 # ❗❗❗
 if you want more skins [check here](https://edoprohd.epizy.com/) and [here](https://github.com/josevdr95new/EDOPro-SkinLibrary) (these are not mine)
 
+if you are interested in .json file [check here](https://github.com/Lahrenheit/EDOPRO-Skinpack/tree/json) 
+
 ---
 
 
