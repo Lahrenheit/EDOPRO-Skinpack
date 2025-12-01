@@ -1,30 +1,55 @@
 {
    "repos": [
 		{
-     			"url": "https://github.com/ryoken08/CDBEsp",
-				"repo_name": "Ryoken08 Parche en Español",
-				"repo_path": "./config/languages/Español",
+     			"url": "https://github.com/termitaklk/lflist",
+				"repo_name": "Evolution Forbidden & Limited Card Lists",
+				"repo_path": "./repositories/evolution/lflists",
+				"lflist_path": ".",
 				"should_update": true,
 				"should_read": true
     		},
 		{
-     		"url": "https://github.com/Yoshi80/Rush-HD-Pictures",
-			"repo_name": "Rush Duel HD Card Project",
-			"repo_path": "./repositories/rush-hd",
-			"has_core": false,
-			"data_path": "",
-			"script_path": "script",
-			"pics_path": "pics",
-			"expansions_path": "expansions",
-			"should_update": true,
-			"should_read": true
+     			"url": "https://github.com/ryoken08/CDBEsp",
+				"repo_name": "Ryoken08 Parche en Español",
+				"repo_path": "./config/languages/Español-Ryoken08",
+				"should_update": true,
+				"should_read": true
+    		},
+		{
+     			"url": "https://github.com/josevdr95new/cdbespa-alternativo",
+				"repo_name": "josevdr95 cdbespa-alternativo",
+				"repo_path": "./config/languages/Español-Alternativo",
+				"should_update": true,
+				"should_read": true
+    		},
+		{
+     			"url": "https://github.com/Team13fr/IgnisMulti",
+				"repo_name": "Team13.fr Multilanguage updates",
+				"repo_path": "./config/languages",
+				"is_language": true,
+				"language": "",
+				"data_path": "",
+				"should_update": true,
+				"should_read": true
+    		},
+		{
+				"url": "https://github.com/Yoshi80/Rush-HD-Pictures",
+				"repo_name": "Rush Duel HD Card Project",
+				"repo_path": "./repositories/rush-hd",
+				"has_core": false,
+				"data_path": "",
+				"script_path": "script",
+				"pics_path": "pics",
+				"expansions_path": "expansions",
+				"should_update": true,
+				"should_read": true
     		},
 		{
      			"url": "https://github.com/Lahrenheit/EDOPRO-Skinpack",
       			"repo_name": "Lahrenheit EDOPro Skinpack",
      			"repo_path": "./skin/",
      			"should_update": true,
-     			"should_read": true
+     			"should_read": false
 			},
 		{
      			"url": "https://github.com/Lahrenheit/EDOPRO-Soundpack",
@@ -36,14 +61,23 @@
 			],
 	"urls": [
 		{
-            "url": "https://raw.githubusercontent.com/Yoshi80/Rush-HD-Pictures/master/pics/field/{}.png",
-            "type": "field"
+            "url": "",
+            "type": "pic"
         },
 		{
-            "url": "https://raw.githubusercontent.com/Lahrenheit/HD-Cards-Project/master/pics/field/{}.png",
+            "url": "",
             "type": "field"
         }
 			],
-	"servers": [],
+	"servers": [
+    {
+      "name": "Evolution Server",
+      "address": "server.evolutionygo.com",
+      "duelport": 7911,
+      "roomaddress": "server.evolutionygo.com",
+      "roomlistprotocol": "http",
+      "roomlistport": 7922
+    }
+  ],
 	"posixPathExtension": "/usr/local/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands"
 }
