@@ -2,6 +2,8 @@
 Skins edited by Lahrenheit for EDOPRO (with MR2020)
 
 ![Stars](https://img.shields.io/github/stars/Lahrenheit/EDOPRO-Skinpack?style=flat&label=Stars&color=ff69b4) ![Forks](https://img.shields.io/github/forks/Lahrenheit/EDOPRO-Skinpack?style=flat&label=Forks&color=orange) ![Watchers](https://img.shields.io/github/watchers/Lahrenheit/EDOPRO-Skinpack?style=flat&label=Watchers&color=blue)
+![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/EDOPRO-Skinpack?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/EDOPRO-Skinpack?style=flat&color=success)
+![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/EDOPRO-Skinpack/total?style=flat&color=blue)
 
 ---
 
