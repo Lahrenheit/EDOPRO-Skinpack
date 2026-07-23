@@ -1,6 +1,8 @@
 # <img src="https://projectignis.github.io/assets/img/ignis_logo.png" width="80"/>EDOPRO-Skinpack
 Skins edited by Lahrenheit for EDOPRO (with MR2020)
 
+![Visitas](https://img.shields.io/badge/Visitas-89-35495e) ![Visitantes únicos](https://img.shields.io/badge/Visitantes_únicos-18-4c1) ![Clonaciones](https://img.shields.io/badge/Clonaciones-278-556b2f) ![Stars](https://img.shields.io/github/stars/Lahrenheit/EDOPRO-Skinpack?style=flat&label=Stars&color=ff69b4) ![Forks](https://img.shields.io/github/forks/Lahrenheit/EDOPRO-Skinpack?style=flat&label=Forks&color=orange) ![Watchers](https://img.shields.io/github/watchers/Lahrenheit/EDOPRO-Skinpack?style=flat&label=Watchers&color=blue)
+
 ---
 
 
