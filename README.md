@@ -1,4 +1,4 @@
-# <img src="https://projectignis.github.io/assets/img/ignis_logo.png" width="80"/>EDOPRO-Skinpack
+# <img src="https://projectignis.github.io/assets/img/ignis_logo.png" width="50" height="50"/>EDOPRO-Skinpack
 ![Stars](https://img.shields.io/github/stars/Lahrenheit/EDOPRO-Skinpack?style=flat&label=Stars&color=ff69b4) ![Forks](https://img.shields.io/github/forks/Lahrenheit/EDOPRO-Skinpack?style=flat&label=Forks&color=orange) ![Watchers](https://img.shields.io/github/watchers/Lahrenheit/EDOPRO-Skinpack?style=flat&label=Watchers&color=blue)
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/EDOPRO-Skinpack?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/EDOPRO-Skinpack?style=flat&color=success)
 ![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/EDOPRO-Skinpack/total?style=flat&color=blue)
