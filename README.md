@@ -6,6 +6,8 @@
 
 Skins edited by Lahrenheit for EDOPRO (with MR2020)
 
+Now you can download here too https://www.nexusmods.com/profile/Frozenlahrs/mods?gameId=4649
+
 ---
 
 
